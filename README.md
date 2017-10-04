@@ -26,7 +26,7 @@ Your instructor: Lennart alf@us.ibm.com
 
 ### [*Sign up for the IBM Cloud at no cost*](https://bluemix.net)
 
-# Blockchain and Hyperledger, let's get started
+# Let's get started: Blockchain and Hyperledger
 ~~~
 Hyperledger, an open source collaborative effort to advance cross-industry blockchain technologies, 
 is hosted by The Linux Foundation®. 
