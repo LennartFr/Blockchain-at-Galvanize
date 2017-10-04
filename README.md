@@ -3,6 +3,8 @@
 # 2017-10-23-Blockchain-at-Galvanize http://bit.ly/2y0tMNM
 Learn how to start writing Blockchain applications
 
+## Assumption: you already know enough of Blockchain to want to learn to write Blockchain apps. 
+
 # Housekeeping info:
 [Eventbrite Invitation](https://www.eventbrite.com/e/learn-how-to-build-fintech-applications-that-use-watson-ai-tickets-37213362168)
 
