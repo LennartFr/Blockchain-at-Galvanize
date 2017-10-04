@@ -46,6 +46,7 @@ We propose a solution to the double-spending problem using a peer-to-peer networ
 * Selective endorsement (consensus) over proof of work
 
 # Blockchain Use cases
+[Benefits of supply chain with blockchain](https://www.ibm.com/blogs/blockchain/category/blockchain-in-food-safety/)
 
 # Blockchain and Hyperledger
 ~~~
