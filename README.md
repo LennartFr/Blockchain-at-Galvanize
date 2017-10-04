@@ -4,6 +4,7 @@
 Learn how to start writing Blockchain applications
 
 ## Assumption: you already know enough of Blockchain to want to learn to write Blockchain apps. 
+## Intro to Blockchain Information for newbies http://bit.ly/2yIuhJs
 
 # Housekeeping info:
 [Eventbrite Invitation](https://www.eventbrite.com/e/learn-how-to-build-fintech-applications-that-use-watson-ai-tickets-37213362168)
@@ -24,8 +25,6 @@ Your instructor: Lennart alf@us.ibm.com
       Where do we go from here?  
 8:30: Event ends   
 ~~~ 
-
-# Intro to Blockchain Information for newbies http://bit.ly/2yIuhJs
 
 # Blockchain and Hyperledger, let's get started
 ~~~
