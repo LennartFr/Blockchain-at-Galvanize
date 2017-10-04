@@ -1,11 +1,9 @@
 # 2017-10-23-Blockchain-at-Galvanize
+Learn how to start writing Blockchain applications
 
 <img src="https://farm5.staticflickr.com/4420/37281814462_74b5c55380_z.jpg" width="570" height="285" alt="galvanize">
 
-
-# Learn How to Build FinTech Applications that Use Watson AI
-## URL: [http://bit.ly/2wRZdWt](http://bit.ly/2wRZdWt)
-
+# Housekeeping info:
 [Eventbrite Invitation](https://www.eventbrite.com/e/learn-how-to-build-fintech-applications-that-use-watson-ai-tickets-37213362168)
 
 ## Wifi at Galavanize
@@ -17,36 +15,14 @@ Lennart alf@us.ibm.com
 # Agenda
 ~~~
 6:00  Sign-in, mingle, food, welcome. Intro of Tom Eck, IBM CTO Industry Platforms
-6:20: Tom Eck: Introduction to the finance services in the IBM Cloud: 
-       the IBM experimental services and the Business Partner services, as well as some use cases. 
-       Alvin Cho Architect for Watson Fintech Hub.  
-6:40: Lennart: Introduction of the lab (Developer Journey). 
-6:45: Coding starts. 
+6:20: Introduction to IBM Blockchain and Hyperledger: 
+6:30: Lennart: Introduction of the labs (Developer Journey). 
+6:40: Coding starts.
+      Lab 1:  
 8:00: Coding ends.
       Where do we go from here?  
 8:30: Event ends   
 ~~~ 
-
-# October 2008 It all started with Satoshi Nakamoto and his paper [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) 
-which addressed a key problem in electronic commerce:
-~~~
-A purely peer-to-peer version of electronic cash would allow online payments to be sent directly 
-from one party to another without going through a financial institution. 
-
-Digital signatures provide part of the solution, but the main benefits are lost if a trusted third party 
-is still required to prevent double-spending.
-
-We propose a solution to the double-spending problem using a peer-to-peer network.
-~~~
-
-# BitCoin and Blockchain
-
-* Assets over cryptocurrency
-* Identity over anonymity
-* Selective endorsement (consensus) over proof of work
-
-# Blockchain Use cases
-[Benefits of supply chain with blockchain](https://www.ibm.com/blogs/blockchain/category/blockchain-in-food-safety/)
 
 # Blockchain and Hyperledger
 ~~~
@@ -66,7 +42,7 @@ including Hyperledger Fabric and Hyperledger Composer.
 # Hyperledger components
  (http://hyperledger-fabric.readthedocs.io/en/latest/samples.html)
 
-# Let's install the Hyperledger Fabric!
+# Lab 1: Let's install the Hyperledger Fabric!
 ## [Getting Started](http://hyperledger-fabric.readthedocs.io/en/latest/getting_started.html)
 ## [Install prerequisites](http://hyperledger-fabric.readthedocs.io/en/latest/getting_started.html#install-prerequisites)
 ## [Install Binaries and Docker Images](http://hyperledger-fabric.readthedocs.io/en/latest/getting_started.html#install-binaries-and-docker-images)
@@ -75,4 +51,4 @@ including Hyperledger Fabric and Hyperledger Composer.
 
 # [Writing your first application](http://hyperledger-fabric.readthedocs.io/en/latest/write_first_app.html)
 
-# [Blockchain on Bluemix](https://console.bluemix.net/catalog/services/blockchain/)
+# Where do we go from here?
