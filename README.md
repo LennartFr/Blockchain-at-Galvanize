@@ -1,4 +1,4 @@
-# 2017-10-23-Blockchain-at-Galvanize
+# 2017-10-23-Blockchain-at-Galvanize http://bit.ly/2y0tMNM
 Learn how to start writing Blockchain applications
 
 <img src="https://farm5.staticflickr.com/4420/37281814462_74b5c55380_z.jpg" width="570" height="285" alt="galvanize">
