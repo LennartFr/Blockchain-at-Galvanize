@@ -44,7 +44,10 @@ including Hyperledger Fabric and Hyperledger Composer.
 # Hyperledger components
  (http://hyperledger-fabric.readthedocs.io/en/latest/samples.html)
 
-# Lab 1: Let's install the Hyperledger Fabric!
+# Lab 1: Let's write an app with the Hyperledger Composer!
+
+
+# Lab 2: Let's install the Hyperledger Fabric!
 ## [Getting Started](http://hyperledger-fabric.readthedocs.io/en/latest/getting_started.html)
 ## [Install prerequisites](http://hyperledger-fabric.readthedocs.io/en/latest/getting_started.html#install-prerequisites)
 ## [Install Binaries and Docker Images](http://hyperledger-fabric.readthedocs.io/en/latest/getting_started.html#install-binaries-and-docker-images)
