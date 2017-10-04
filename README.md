@@ -1,12 +1,12 @@
 # 2017-10-23-Blockchain-at-Galvanize
 
+<img src="https://farm5.staticflickr.com/4420/37281814462_74b5c55380_z.jpg" width="570" height="285" alt="galvanize">
+
 <img src="https://farm5.staticflickr.com/4253/34782265013_b6213136c7_o.png"> 
 
 # Blockchain from the code up. 
 The story of a technology that is changing the world. 
 
-
-<img src="https://farm5.staticflickr.com/4420/37281814462_74b5c55380_z.jpg" width="570" height="285" alt="galvanize">
 
 # Learn How to Build FinTech Applications that Use Watson AI
 ## URL: [http://bit.ly/2wRZdWt](http://bit.ly/2wRZdWt)
