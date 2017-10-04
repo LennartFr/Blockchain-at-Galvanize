@@ -12,8 +12,6 @@ Learn how to start writing Blockchain applications
 ### Wifi at Galavanize SSID/pass = g|Events / machinelearning
 Your instructor: Lennart alf@us.ibm.com
 
-### [*Sign up for the IBM Cloud at no cost*](https://bluemix.net)
-
 # Agenda
 ~~~
 6:00  Sign-in, mingle, food, welcome. Intro of Tom Eck, IBM CTO Industry Platforms
@@ -25,6 +23,8 @@ Your instructor: Lennart alf@us.ibm.com
       Where do we go from here?  
 8:30: Event ends   
 ~~~ 
+
+### [*Sign up for the IBM Cloud at no cost*](https://bluemix.net)
 
 # Blockchain and Hyperledger, let's get started
 ~~~
