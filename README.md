@@ -37,7 +37,7 @@ including Hyperledger Fabric and Hyperledger Composer.
 
 ## [Hyperledger Fabric on Github](https://github.com/hyperledger/fabric)
 ## [Hyperledger Composer on GitHub](https://github.com/hyperledger/composer)
-## [Hyperledger Composer](https://hyperledger.github.io/composer/)
+## [Run Hyperledger Composer in your browser](https://hyperledger.github.io/composer/)
 ## [BNA file](https://hyperledger.github.io/composer/reference/commands.html)
 
 
