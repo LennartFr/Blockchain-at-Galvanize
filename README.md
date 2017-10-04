@@ -5,6 +5,34 @@
 # Blockchain from the code up. 
 The story of a technology that is changing the world. 
 
+
+<img src="https://farm5.staticflickr.com/4420/37281814462_74b5c55380_z.jpg" width="570" height="285" alt="galvanize">
+
+# Learn How to Build FinTech Applications that Use Watson AI
+## URL: [http://bit.ly/2wRZdWt](http://bit.ly/2wRZdWt)
+
+[Eventbrite Invitation](https://www.eventbrite.com/e/learn-how-to-build-fintech-applications-that-use-watson-ai-tickets-37213362168)
+
+## Wifi at Galavanize
+SSID/pass = g|Events / machinelearning
+
+Lennart alf@us.ibm.com
+
+## [*Sign up for the IBM Cloud at no cost*](https://bluemix.net)
+
+# Agenda
+~~~
+6:00  Sign-in, mingle, food, welcome. Intro of Tom Eck, IBM CTO Industry Platforms
+6:20: Tom Eck: Introduction to the finance services in the IBM Cloud: 
+       the IBM experimental services and the Business Partner services, as well as some use cases. 
+       Alvin Cho Architect for Watson Fintech Hub.  
+6:40: Lennart: Introduction of the lab (Developer Journey). 
+6:45: Coding starts. 
+8:00: Coding ends.Q/A with Tom and the IBM team.  
+      Algorithmics Q/A
+8:30: Event ends   
+~~~ 
+
 # October 2008 It all started with Satoshi Nakamoto and his paper [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) 
 which addressed a key problem in electronic commerce:
 ~~~
