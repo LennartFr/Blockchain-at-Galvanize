@@ -23,3 +23,7 @@ We propose a solution to the double-spending problem using a peer-to-peer networ
 
 # Blockchain Use cases
 [Benefits of supply chain with blockchain](https://www.ibm.com/blogs/blockchain/category/blockchain-in-food-safety/)
+
+# Blockchain Use cases
+[Benefits of supply chain with blockchain](https://www.ibm.com/blogs/blockchain/category/blockchain-in-food-safety/)
+
