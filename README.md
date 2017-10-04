@@ -23,9 +23,9 @@ Lennart alf@us.ibm.com
 8:30: Event ends   
 ~~~ 
 
-# Intro to Blockchain Information http://bit.ly/2yIuhJs
+# Intro to Blockchain Information for newbies http://bit.ly/2yIuhJs
 
-# Blockchain and Hyperledger
+# Blockchain and Hyperledger, let's get started
 ~~~
 Hyperledger, an open source collaborative effort to advance cross-industry blockchain technologies, 
 is hosted by The Linux Foundation®. 
