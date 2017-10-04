@@ -24,7 +24,7 @@ Lennart alf@us.ibm.com
 8:30: Event ends   
 ~~~ 
 
-#Intro to Blockchain Information http://bit.ly/2yIuhJs
+# Intro to Blockchain Information http://bit.ly/2yIuhJs
 
 # Blockchain and Hyperledger
 ~~~
