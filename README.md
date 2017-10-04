@@ -2,11 +2,6 @@
 
 <img src="https://farm5.staticflickr.com/4420/37281814462_74b5c55380_z.jpg" width="570" height="285" alt="galvanize">
 
-<img src="https://farm5.staticflickr.com/4253/34782265013_b6213136c7_o.png"> 
-
-# Blockchain from the code up. 
-The story of a technology that is changing the world. 
-
 
 # Learn How to Build FinTech Applications that Use Watson AI
 ## URL: [http://bit.ly/2wRZdWt](http://bit.ly/2wRZdWt)
@@ -15,7 +10,6 @@ The story of a technology that is changing the world.
 
 ## Wifi at Galavanize
 SSID/pass = g|Events / machinelearning
-
 Lennart alf@us.ibm.com
 
 ## [*Sign up for the IBM Cloud at no cost*](https://bluemix.net)
@@ -28,8 +22,8 @@ Lennart alf@us.ibm.com
        Alvin Cho Architect for Watson Fintech Hub.  
 6:40: Lennart: Introduction of the lab (Developer Journey). 
 6:45: Coding starts. 
-8:00: Coding ends.Q/A with Tom and the IBM team.  
-      Algorithmics Q/A
+8:00: Coding ends.
+      Where do we go from here?  
 8:30: Event ends   
 ~~~ 
 
