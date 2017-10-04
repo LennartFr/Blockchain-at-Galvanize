@@ -24,6 +24,8 @@ Lennart alf@us.ibm.com
 8:30: Event ends   
 ~~~ 
 
+# Background Information http://bit.ly/2yIuhJs
+
 # Blockchain and Hyperledger
 ~~~
 Hyperledger, an open source collaborative effort to advance cross-industry blockchain technologies, 
