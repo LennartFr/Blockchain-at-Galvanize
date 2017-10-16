@@ -1,7 +1,9 @@
 <img src="https://farm5.staticflickr.com/4420/37281814462_74b5c55380_z.jpg" width="570" height="285" alt="galvanize">
 
-# 2017-10-23-Blockchain-at-Galvanize http://bit.ly/2xJxyHx
+# 2017-10-23-Blockchain-at-Galvanize 
 Learn how to start writing Blockchain applications
+
+[EventBrite](https://www.eventbrite.com/e/learn-how-to-develop-blockchain-apps-tickets-38129072081)
 
 ## Assumption: you already know enough of Blockchain to want to learn to write Blockchain apps. 
 ## Intro to Blockchain Information for newbies http://bit.ly/2yIuhJs
