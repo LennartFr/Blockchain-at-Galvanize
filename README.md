@@ -52,6 +52,7 @@ The Hyperledger code is all up on GitHub:
 ## [Hyperledger Fabric on Github](https://github.com/hyperledger/fabric)
 ## [Hyperledger Composer on GitHub](https://github.com/hyperledger/composer)
 ## [BNA file](https://hyperledger.github.io/composer/reference/commands.html)
+A Business Network Archive (BNA) file is exported by the Hyperledger Composer with the extension of .bna, and contains the definitions all the definitions for a Business Network. It is deployed in a Hyper Ledger Fabric. 
 
 # Hyperledger components
  (http://hyperledger-fabric.readthedocs.io/en/latest/samples.html)
