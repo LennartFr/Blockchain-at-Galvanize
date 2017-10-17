@@ -41,7 +41,6 @@ including Hyperledger Fabric and Hyperledger Composer.
 
 ## [Hyperledger Fabric on Github](https://github.com/hyperledger/fabric)
 ## [Hyperledger Composer on GitHub](https://github.com/hyperledger/composer)
-## [Run Hyperledger Composer in your browser](https://hyperledger.github.io/composer/)
 ## [BNA file](https://hyperledger.github.io/composer/reference/commands.html)
 
 
@@ -49,7 +48,7 @@ including Hyperledger Fabric and Hyperledger Composer.
  (http://hyperledger-fabric.readthedocs.io/en/latest/samples.html)
 
 # Lab 1: Let's write an app with the Hyperledger Composer!
-
+## [Run Hyperledger Composer in your browser](https://hyperledger.github.io/composer/)
 
 # Lab 2: Let's install the Hyperledger Fabric!
 ## [Getting Started](http://hyperledger-fabric.readthedocs.io/en/latest/getting_started.html)
