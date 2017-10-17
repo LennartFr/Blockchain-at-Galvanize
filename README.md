@@ -7,14 +7,14 @@ Learn how to start writing Blockchain applications
 
 [EventBrite](https://www.eventbrite.com/e/learn-how-to-develop-blockchain-apps-tickets-38129072081)
 
-## Assumption: you already know enough of Blockchain to want to learn to write Blockchain apps. 
-## Intro to Blockchain Information for newbies http://bit.ly/2yIuhJs
-
 # Housekeeping info:
 [Eventbrite Invitation](https://www.eventbrite.com/e/learn-how-to-build-fintech-applications-that-use-watson-ai-tickets-37213362168)
 
 ### Wifi at Galavanize SSID/pass = g|Events / machinelearning
 Your instructor: Lennart alf@us.ibm.com
+
+## Assumption: you already know enough of Blockchain to want to learn to write Blockchain apps. 
+## Intro to Blockchain Information for newbies http://bit.ly/2yIuhJs
 
 # Agenda
 ~~~
