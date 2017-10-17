@@ -25,6 +25,8 @@ Your instructor: Lennart alf@us.ibm.com
       Lab 1:  
 8:00: Coding ends.
       Where do we go from here?  
+      Lab 2:
+      Lab 3:
 8:30: Event ends   
 ~~~ 
 
