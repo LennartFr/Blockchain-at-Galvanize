@@ -32,13 +32,13 @@ Your instructor: Lennart alf@us.ibm.com
 
 # Let's get started: Blockchain and Hyperledger
 ~~~
-Hyperledger, an open source collaborative effort to advance cross-industry blockchain technologies, 
+* Hyperledger, an open source collaborative effort to advance cross-industry blockchain technologies, 
 is hosted by The Linux Foundation®. 
 
 IBM provides blockchain solutions and services leveraging Hyperledger technologies, 
 including Hyperledger Fabric and Hyperledger Composer.
 
-Hyperledger Composer is an application development framework which simplifies and 
+* Hyperledger Composer is an application development framework which simplifies and 
 expedites the creation of Hyperledger fabric blockchain applications.
 
 Hyperledger Fabric is a platform for distributed ledger solutions, underpinned by 
@@ -46,6 +46,9 @@ a modular architecture delivering high degrees of confidentiality, resiliency,
 flexibility and scalability. It is designed to support pluggable implementations 
 of different components, and accommodate the complexity and intricacies that exist 
 across the economic ecosystem.
+
+* A Business Network Archive (BNA) file is exported by the Hyperledger Composer with the extension of .bna, and contains the definitions all the definitions for a Business Network. It is deployed in a Hyper Ledger Fabric.
+
 ~~~
 
 # Hyperledger components
