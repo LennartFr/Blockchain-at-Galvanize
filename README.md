@@ -31,32 +31,33 @@ Your instructor: Lennart alf@us.ibm.com
 ~~~ 
 
 # Let's get started: Blockchain and Hyperledger
-~~~
+
+# Hyperledger components
+ (http://hyperledger-fabric.readthedocs.io/en/latest/samples.html)
+
 Hyperledger, an open source collaborative effort to advance cross-industry blockchain technologies, 
 is hosted by The Linux Foundation®. 
 
 IBM provides blockchain solutions and services leveraging Hyperledger technologies, 
 including Hyperledger Fabric and Hyperledger Composer.
 
-* Hyperledger Composer is an application development framework which simplifies and 
-expedites the creation of Hyperledger fabric blockchain applications.
+## [Hyperledger Composer on GitHub](https://github.com/hyperledger/composer)
+Hyperledger Composer is an application development framework which simplifies and expedites the creation of Hyperledger fabric blockchain applications.
 
-* Hyperledger Fabric https://github.com/hyperledger/fabric is a platform for distributed ledger solutions, underpinned by 
+## [Hyperledger Fabric on Github](https://github.com/hyperledger/fabric)
+
+* Hyperledger Fabric is a platform for distributed ledger solutions, underpinned by 
 a modular architecture delivering high degrees of confidentiality, resiliency, 
 flexibility and scalability. It is designed to support pluggable implementations 
 of different components, and accommodate the complexity and intricacies that exist 
 across the economic ecosystem.
 
-~~~
-
-# Hyperledger components
- (http://hyperledger-fabric.readthedocs.io/en/latest/samples.html)
-
-The Hyperledger code is all up on GitHub:
-## [Hyperledger Fabric on Github](https://github.com/hyperledger/fabric)
-## [Hyperledger Composer on GitHub](https://github.com/hyperledger/composer)
 ## [BNA file](https://hyperledger.github.io/composer/reference/commands.html)
 A Business Network Archive (BNA) file is exported by the Hyperledger Composer with the extension of .bna, and contains the definitions all the definitions for a Business Network. It is deployed in a Hyper Ledger Fabric. 
+ is an application development framework which simplifies and 
+expedites the creation of Hyperledger fabric blockchain applications.
+
+
 
 # Lab 1: Let's write an app with the Hyperledger Composer!
 ## [Run Hyperledger Composer in your browser](https://hyperledger.github.io/composer/)
