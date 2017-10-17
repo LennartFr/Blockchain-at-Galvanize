@@ -32,8 +32,7 @@ Your instructor: Lennart alf@us.ibm.com
 
 # Let's get started: Blockchain and Hyperledger
 
-# Hyperledger components
- (http://hyperledger-fabric.readthedocs.io/en/latest/samples.html)
+(http://hyperledger-fabric.readthedocs.io/en/latest/samples.html)
 
 Hyperledger, an open source collaborative effort to advance cross-industry blockchain technologies, 
 is hosted by The Linux Foundation®. 
