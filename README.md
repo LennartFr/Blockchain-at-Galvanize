@@ -1,5 +1,7 @@
 <img src="https://farm5.staticflickr.com/4420/37281814462_74b5c55380_z.jpg" width="570" height="285" alt="galvanize">
 
+[URL to this page:](http://bit.ly/2yQxJpo) 
+
 # 2017-10-23-Blockchain-at-Galvanize 
 Learn how to start writing Blockchain applications
 
