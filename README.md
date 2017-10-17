@@ -53,7 +53,6 @@ The Hyperledger code is all up on GitHub:
 ## [Hyperledger Composer on GitHub](https://github.com/hyperledger/composer)
 ## [BNA file](https://hyperledger.github.io/composer/reference/commands.html)
 
-
 # Hyperledger components
  (http://hyperledger-fabric.readthedocs.io/en/latest/samples.html)
 
