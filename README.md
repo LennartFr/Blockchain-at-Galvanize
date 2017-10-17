@@ -39,6 +39,7 @@ IBM provides blockchain solutions and services leveraging Hyperledger technologi
 including Hyperledger Fabric and Hyperledger Composer.
 ~~~
 
+The Hyperledger code is all up on GitHub:
 ## [Hyperledger Fabric on Github](https://github.com/hyperledger/fabric)
 ## [Hyperledger Composer on GitHub](https://github.com/hyperledger/composer)
 ## [BNA file](https://hyperledger.github.io/composer/reference/commands.html)
