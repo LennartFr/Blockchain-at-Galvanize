@@ -14,7 +14,7 @@ Learn how to start writing Blockchain applications
 Your instructor: Lennart alf@us.ibm.com
 
 ## Assumption: you already know enough of Blockchain to want to learn to write Blockchain apps. 
-## Intro to Blockchain Information for newbies http://bit.ly/2yIuhJs
+## Intro to Blockchain for newbies http://bit.ly/2yIuhJs
 
 # Agenda
 ~~~
