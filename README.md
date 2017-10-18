@@ -33,6 +33,8 @@ is hosted by The Linux Foundation®.
 IBM provides blockchain solutions and services leveraging Hyperledger technologies, 
 including Hyperledger Fabric and Hyperledger Composer.
 
+<img src="https://farm5.staticflickr.com/4476/37516361780_650bb5a72a_b.jpg" width="725" height="519" alt="Hyperledger">
+
 <img src="https://farm5.staticflickr.com/4458/37065382394_b470633162_c.jpg" width="800" height="446" alt="hyperledger architecture">
 
 
