@@ -27,7 +27,7 @@ Your instructor: Lennart alf@us.ibm.com
 ~~~ 
 
 # Let's get started: Blockchain and Hyperledger
-
+===================================================================================================================================
 [Hyperledger](https://www.hyperledger.org/), an open source collaborative effort to advance cross-industry blockchain technologies, 
 is hosted by The Linux Foundation®. 
 
