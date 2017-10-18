@@ -1,11 +1,15 @@
-# 2017-10-23-Blockchain-at-Galvanize 
-## Learn how to start writing Blockchain applications
+<img src="https://farm5.staticflickr.com/4420/37281814462_74b5c55380_z.jpg" width="570" height="285" alt="galvanize">
 
 [URL to this page](http://bit.ly/2yQxJpo) http://bit.ly/2yQxJpo 
 
-[EventBrite invitation](https://www.eventbrite.com/e/learn-how-to-develop-blockchain-apps-tickets-38129072081)
+# 2017-10-23-Blockchain-at-Galvanize 
+Learn how to start writing Blockchain applications
+
+[EventBrite](https://www.eventbrite.com/e/learn-how-to-develop-blockchain-apps-tickets-38129072081)
 
 # Housekeeping info:
+[Eventbrite Invitation](https://www.eventbrite.com/e/learn-how-to-build-fintech-applications-that-use-watson-ai-tickets-37213362168)
+
 ### Wifi at Galavanize SSID/pass = g|Events / machinelearning
 Your instructor: Lennart alf@us.ibm.com
 
@@ -27,22 +31,19 @@ Your instructor: Lennart alf@us.ibm.com
 ~~~ 
 
 # Let's get started: Blockchain and Hyperledger
-[Hyperledger](https://www.hyperledger.org/), an open source collaborative effort to advance cross-industry blockchain technologies, 
+
+(http://hyperledger-fabric.readthedocs.io/en/latest/samples.html)
+
+Hyperledger, an open source collaborative effort to advance cross-industry blockchain technologies, 
 is hosted by The Linux Foundation®. 
 
 IBM provides blockchain solutions and services leveraging Hyperledger technologies, 
 including Hyperledger Fabric and Hyperledger Composer.
 
-<img src="https://farm5.staticflickr.com/4476/37516361780_650bb5a72a_b.jpg" width="725" height="519" alt="Hyperledger">
-
-<img src="https://farm5.staticflickr.com/4458/37065382394_b470633162_c.jpg" width="800" height="446" alt="hyperledger architecture">
-
 ## [Hyperledger Composer on GitHub](https://github.com/hyperledger/composer)
 Hyperledger Composer is an application development framework which simplifies and expedites the creation of Hyperledger fabric blockchain applications.
 
-### [Hyperledger Composer intro](https://www.youtube.com/watch?v=I0Es2Xi-kAk&t=274s)
-
-## [Hyperledger Fabric on GitHub](https://github.com/hyperledger/fabric)
+## [Hyperledger Fabric on Github](https://github.com/hyperledger/fabric)
 
 * Hyperledger Fabric is a platform for distributed ledger solutions, underpinned by 
 a modular architecture delivering high degrees of confidentiality, resiliency, 
@@ -70,3 +71,9 @@ expedites the creation of Hyperledger fabric blockchain applications.
 # [Writing your first application](http://hyperledger-fabric.readthedocs.io/en/latest/write_first_app.html)
 
 # Where do we go from here?
+
+# Notes
+
+* composer network deploy -a basic-sample-2.bna -p hlfv1 -i PeerAdmin -s randomString -A admin -S
+* composer network ping -n basic-sample-2 -p hlfv1 -i admin -s adminpw
+
