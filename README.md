@@ -1,5 +1,5 @@
 # 2017-10-23-Blockchain-at-Galvanize 
-Learn how to start writing Blockchain applications
+## Learn how to start writing Blockchain applications
 
 [URL to this page](http://bit.ly/2yQxJpo) http://bit.ly/2yQxJpo 
 
