@@ -1,4 +1,3 @@
-<img src="https://farm5.staticflickr.com/4420/37281814462_74b5c55380_z.jpg" width="570" height="285" alt="galvanize">
 
 [URL to this page](http://bit.ly/2yQxJpo) http://bit.ly/2yQxJpo 
 
@@ -57,9 +56,9 @@ A Business Network Archive (BNA) file is exported by the Hyperledger Composer wi
 expedites the creation of Hyperledger fabric blockchain applications.
 
 
-
 # Lab 1: Let's write an app with the Hyperledger Composer!
 ## [Run Hyperledger Composer in your browser](https://hyperledger.github.io/composer/)
+## [Playground Tutorial](https://hyperledger.github.io/composer/tutorials/playground-guide.html)
 
 # Lab 2: Let's install the Hyperledger Fabric!
 ## [Getting Started](http://hyperledger-fabric.readthedocs.io/en/latest/getting_started.html)
