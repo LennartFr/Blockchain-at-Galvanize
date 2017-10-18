@@ -3,11 +3,9 @@
 
 [URL to this page](http://bit.ly/2yQxJpo) http://bit.ly/2yQxJpo 
 
-[EventBrite page](https://www.eventbrite.com/e/learn-how-to-develop-blockchain-apps-tickets-38129072081)
+[EventBrite invitation](https://www.eventbrite.com/e/learn-how-to-develop-blockchain-apps-tickets-38129072081)
 
 # Housekeeping info:
-[Eventbrite Invitation](https://www.eventbrite.com/e/learn-how-to-build-fintech-applications-that-use-watson-ai-tickets-37213362168)
-
 ### Wifi at Galavanize SSID/pass = g|Events / machinelearning
 Your instructor: Lennart alf@us.ibm.com
 
