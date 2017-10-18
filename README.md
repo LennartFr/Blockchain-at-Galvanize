@@ -33,6 +33,9 @@ is hosted by The Linux Foundation®.
 IBM provides blockchain solutions and services leveraging Hyperledger technologies, 
 including Hyperledger Fabric and Hyperledger Composer.
 
+<img src="https://farm5.staticflickr.com/4458/37065382394_b470633162_c.jpg" width="800" height="446" alt="hyperledger architecture">
+
+
 ## [Hyperledger Composer on GitHub](https://github.com/hyperledger/composer)
 Hyperledger Composer is an application development framework which simplifies and expedites the creation of Hyperledger fabric blockchain applications.
 
