@@ -28,9 +28,7 @@ Your instructor: Lennart alf@us.ibm.com
 
 # Let's get started: Blockchain and Hyperledger
 
-(http://hyperledger-fabric.readthedocs.io/en/latest/samples.html)
-
-Hyperledger, an open source collaborative effort to advance cross-industry blockchain technologies, 
+[Hyperledger](https://www.hyperledger.org/), an open source collaborative effort to advance cross-industry blockchain technologies, 
 is hosted by The Linux Foundation®. 
 
 IBM provides blockchain solutions and services leveraging Hyperledger technologies, 
