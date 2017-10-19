@@ -80,6 +80,8 @@ If necessary execute the following three commands to remove Docker instances.
    * ./byfn.sh -m generate
    * ./byfn.sh -m up. //See full output from command on this link http://bit.ly/2yyTeIj
    
+   * After checking the output, remember to run ./byfn.sh -m down.
+
 ## Lab 2: Let's run our first app app in Hyperledger Fabric
 ## Step 1
 ## Step 2
