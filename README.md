@@ -46,7 +46,7 @@ Hyperledger Composer is an application development framework which simplifies an
 
 ## [Hyperledger Fabric on Github](https://github.com/hyperledger/fabric)
 
-* Hyperledger Fabric is a platform for distributed ledger solutions, underpinned by 
+Hyperledger Fabric is a platform for distributed ledger solutions, underpinned by 
 a modular architecture delivering high degrees of confidentiality, resiliency, 
 flexibility and scalability. It is designed to support pluggable implementations 
 of different components, and accommodate the complexity and intricacies that exist 
