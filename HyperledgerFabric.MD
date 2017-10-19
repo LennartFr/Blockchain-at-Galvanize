@@ -1,4 +1,6 @@
 
+# Back to main page: http://bit.ly/2yQxJpo
+
 # Output from command: ./byfn.sh -m up
 ~~~
 Arnes-MBP:first-network arnelennartfrantzell$ ./byfn.sh -m up
