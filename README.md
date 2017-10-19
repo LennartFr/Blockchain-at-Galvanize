@@ -62,19 +62,15 @@ expedites the creation of Hyperledger fabric blockchain applications.
 # Let the coding begin. Hands-on Workshop
 
 ## Lab 1: Let's bring up the Hyperledger Fabric!
-Instructions below from this URL: http://hyperledger-fabric.readthedocs.io/en/latest/build_network.html and http://hyperledger-fabric.readthedocs.io/en/latest/samples.html
-
-## Lab 2: Let's install the Hyperledger Fabric!
-
-### [Getting Started](http://hyperledger-fabric.readthedocs.io/en/latest/getting_started.html)
-### [Install prerequisites](http://hyperledger-fabric.readthedocs.io/en/latest/getting_started.html#install-prerequisites)
-### [Install Binaries and Docker Images](http://hyperledger-fabric.readthedocs.io/en/latest/getting_started.html#install-binaries-and-docker-images)
-### [Hyperledger Fabric Samples](http://hyperledger-fabric.readthedocs.io/en/latest/getting_started.html#hyperledger-fabric-samples)
-### [Building your first network](http://hyperledger-fabric.readthedocs.io/en/latest/build_network.html)
-
-# [Writing your first application](http://hyperledger-fabric.readthedocs.io/en/latest/write_first_app.html)
-
-
+Instructions below from this URL: 
+* http://hyperledger-fabric.readthedocs.io/en/latest/build_network.html 
+* http://hyperledger-fabric.readthedocs.io/en/latest/samples.html
+* http://hyperledger-fabric.readthedocs.io/en/latest/getting_started.html
+* http://hyperledger-fabric.readthedocs.io/en/latest/getting_started.html#install-prerequisites)
+* http://hyperledger-fabric.readthedocs.io/en/latest/getting_started.html#install-binaries-and-docker-images
+* http://hyperledger-fabric.readthedocs.io/en/latest/getting_started.html#hyperledger-fabric-samples
+* http://hyperledger-fabric.readthedocs.io/en/latest/build_network.html
+* http://hyperledger-fabric.readthedocs.io/en/latest/write_first_app.html
 
 ## Step 1
 If necessary execute the following three commands to remove Docker instances.
