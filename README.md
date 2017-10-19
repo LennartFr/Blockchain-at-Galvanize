@@ -58,6 +58,7 @@ A Business Network Archive (BNA) file is exported by the Hyperledger Composer wi
 expedites the creation of Hyperledger fabric blockchain applications.
 
 <hr size="50">
+
 # Let the coding begin. Hands-on Workshop
 
 ## Lab 1: Let's bring up the Hyperledger Fabric!
