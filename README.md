@@ -76,7 +76,7 @@ If necessary execute the following three commands to remove Docker instances.
    Bring up the Hyperledger Fabric: 
    
    * ./byfn.sh -m generate
-   * ./byfn.sh -m up. //See full output from command on this link 
+   * ./byfn.sh -m up. //See full output from command on this link http://bit.ly/2yyTeIj
    
 
 
