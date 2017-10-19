@@ -60,7 +60,7 @@ expedites the creation of Hyperledger fabric blockchain applications.
 <hr size="50">
 
 # Lab 1: Let's bring up the Hyperledger Fabric!
-Instructions below from this URL: http://hyperledger-fabric.readthedocs.io/en/latest/build_network.html
+Instructions below from this URL: http://hyperledger-fabric.readthedocs.io/en/latest/build_network.html and http://hyperledger-fabric.readthedocs.io/en/latest/samples.html
    
 ## Step 1
 If necessary execute the following three commands to remove Docker instances.
@@ -68,12 +68,11 @@ If necessary execute the following three commands to remove Docker instances.
    * docker rm $(docker ps -aq)
    * docker rmi $(docker images dev-* -q) 
 ## Step 2   
-   * Instructions below come from the following URL: http://hyperledger-fabric.readthedocs.io/en/latest/samples.html
+   * Instructions below come from the following URL: 
     Execute the following commands:
    * git clone https://github.com/hyperledger/fabric-samples.git iinto a directory on your laptop
    * From that directory on your laptop (see above) invoke:
      curl -sSL https://goo.gl/Q3YRTi | bash   
-     Instructions below from the following URL: http://hyperledger-fabric.readthedocs.io/en/latest/build_network.html
    * cd first-network
 ## Step 3   
    Bring up the Hyperledger Fabric: 
