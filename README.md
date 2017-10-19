@@ -31,7 +31,7 @@ Your instructor: Lennart alf@us.ibm.com
 8:30: Event ends   
 ~~~ 
 
-# Let's get started: Blockchain and Hyperledger
+# Let's get started, introduction and documentation
 
 (http://hyperledger-fabric.readthedocs.io/en/latest/samples.html)
 
@@ -58,21 +58,20 @@ A Business Network Archive (BNA) file is exported by the Hyperledger Composer wi
 expedites the creation of Hyperledger fabric blockchain applications.
 
 <hr size="50">
+# Let the coding begin. Hands-on Workshop
 
-# Lab 1: Let's bring up the Hyperledger Fabric!
+## Lab 1: Let's bring up the Hyperledger Fabric!
 Instructions below from this URL: http://hyperledger-fabric.readthedocs.io/en/latest/build_network.html and http://hyperledger-fabric.readthedocs.io/en/latest/samples.html
 
-# Lab 2: Let's install the Hyperledger Fabric!
-## [Getting Started](http://hyperledger-fabric.readthedocs.io/en/latest/getting_started.html)
-## [Install prerequisites](http://hyperledger-fabric.readthedocs.io/en/latest/getting_started.html#install-prerequisites)
-## [Install Binaries and Docker Images](http://hyperledger-fabric.readthedocs.io/en/latest/getting_started.html#install-binaries-and-docker-images)
-## [Hyperledger Fabric Samples](http://hyperledger-fabric.readthedocs.io/en/latest/getting_started.html#hyperledger-fabric-samples)
-## [Building your first network](http://hyperledger-fabric.readthedocs.io/en/latest/build_network.html)
+## Lab 2: Let's install the Hyperledger Fabric!
+
+### [Getting Started](http://hyperledger-fabric.readthedocs.io/en/latest/getting_started.html)
+### [Install prerequisites](http://hyperledger-fabric.readthedocs.io/en/latest/getting_started.html#install-prerequisites)
+### [Install Binaries and Docker Images](http://hyperledger-fabric.readthedocs.io/en/latest/getting_started.html#install-binaries-and-docker-images)
+### [Hyperledger Fabric Samples](http://hyperledger-fabric.readthedocs.io/en/latest/getting_started.html#hyperledger-fabric-samples)
+### [Building your first network](http://hyperledger-fabric.readthedocs.io/en/latest/build_network.html)
 
 # [Writing your first application](http://hyperledger-fabric.readthedocs.io/en/latest/write_first_app.html)
-
-
-
 
 
 
