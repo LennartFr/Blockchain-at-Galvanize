@@ -69,6 +69,8 @@ expedites the creation of Hyperledger fabric blockchain applications.
 
 # [Writing your first application](http://hyperledger-fabric.readthedocs.io/en/latest/write_first_app.html)
 
+# Lab 3: https://developer.ibm.com/code/journey/decentralized-energy-hyperledger-composer/
+
 # Where do we go from here?
 
 * https://developer.ibm.com/code/journey/build-your-first-blockchain-application/
