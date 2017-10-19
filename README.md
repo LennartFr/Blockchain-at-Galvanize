@@ -135,16 +135,14 @@ var request = {
 
 Save the file and invoke it like this: node invoke.js. You should see the new car appear, stored in the blockchain.
 
-
 # Lab 3: Let's write an app with the Hyperledger Composer!
 
 <img src="https://farm5.staticflickr.com/4445/37751618086_06402e4b2e_b.jpg" width="766" height="532" alt="Composer Playground">
 
 ## Run Hyperledger Composer in your browser https://hyperledger.github.io/composer/
+[Playground Tutorial](https://hyperledger.github.io/composer/tutorials/playground-guide.html)
 
-## [Playground Tutorial](https://hyperledger.github.io/composer/tutorials/playground-guide.html)
-
-
+## [Composer Playground and the Perishable Goods Network](https://github.com/LennartFr/Blockchain-at-Galvanize/blob/master/Hyperledger%20Composer%20Perishable%20Food%20Network.pdf)
 
 # Lab 4: Decentralized Energy with Hyperledger composer 
 https://developer.ibm.com/code/journey/decentralized-energy-hyperledger-composer/
