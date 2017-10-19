@@ -120,6 +120,20 @@ Response is  [{"Key":"CAR0", "Record":{"colour":"blue","make":"Toyota","model":"
 ~~~
     
 ## Step 3 
+* Open the Invoke.js program, locate the request function and change the args section like this, 
+using your own name and args:
+~~~
+var request = {
+        targets: targets,
+        chaincodeId: options.chaincode_id,
+        fcn: 'createCar',
+        args: ['CAR10', 'Chevy', 'Volt', 'Red', 'Lennart'],
+        chainId: options.channel_id,
+        txId: tx_id
+
+~~~
+Save the file and invoke it like this: node invoke.js. You should see the new car appear, stored in the blockchain.
+
 
 # Lab 3: Let's write an app with the Hyperledger Composer!
 ## [Run Hyperledger Composer in your browser](https://hyperledger.github.io/composer/)
