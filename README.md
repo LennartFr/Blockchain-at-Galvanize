@@ -91,7 +91,10 @@ If necessary execute the following three commands to remove Docker instances.
 ## Step 2 Navigate to a directory where you want the samples downloaded to and issue the clone command:
     * git clone https://github.com/hyperledger/fabric-samples.git
     * cd fabric-samples/fabcar
-## Step 3
+    * See what's inside the directory: ls
+    * You should see the following: chaincode , invoke.js , network , package.json , query.js , startFabric.sh 
+    
+## Step 3 
 
 # Lab 2: Let's write an app with the Hyperledger Composer!
 ## [Run Hyperledger Composer in your browser](https://hyperledger.github.io/composer/)
