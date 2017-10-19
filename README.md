@@ -56,16 +56,16 @@ A Business Network Archive (BNA) file is exported by the Hyperledger Composer wi
  is an application development framework which simplifies and 
 expedites the creation of Hyperledger fabric blockchain applications.
 
-<hr size="50" color="blue">
+<hr size="50">
 
 # Lab 1: Let's bring up the Hyperledger Fabric!
    
-# Step 1
+## Step 1
 If necessary execute the following three commands to remove Docker instances.
    * docker kill $(docker ps -q)
    * docker rm $(docker ps -aq)
    * docker rmi $(docker images dev-* -q) 
-   
+## Step 2   
    * Go to the following URL: http://hyperledger-fabric.readthedocs.io/en/latest/samples.html
    
    Execute the following commands:
@@ -74,15 +74,16 @@ If necessary execute the following three commands to remove Docker instances.
    * curl -sSL https://goo.gl/Q3YRTi | bash 
     Go to the following URL: http://hyperledger-fabric.readthedocs.io/en/latest/build_network.html
    * cd first-network
-   
+## Step 3   
    Bring up the Hyperledger Fabric: 
    
    * ./byfn.sh -m generate
    * ./byfn.sh -m up. //See full output from command on this link http://bit.ly/2yyTeIj
    
-
-
-
+## Lab 2: Let's run our first app app in Hyperledger Fabric
+## Step 1
+## Step 2
+## Step 3
 
 # Lab 2: Let's write an app with the Hyperledger Composer!
 ## [Run Hyperledger Composer in your browser](https://hyperledger.github.io/composer/)
