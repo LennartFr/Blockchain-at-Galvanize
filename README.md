@@ -61,7 +61,21 @@ expedites the creation of Hyperledger fabric blockchain applications.
 
 # Lab 1: Let's bring up the Hyperledger Fabric!
 Instructions below from this URL: http://hyperledger-fabric.readthedocs.io/en/latest/build_network.html and http://hyperledger-fabric.readthedocs.io/en/latest/samples.html
-   
+
+# Lab 2: Let's install the Hyperledger Fabric!
+## [Getting Started](http://hyperledger-fabric.readthedocs.io/en/latest/getting_started.html)
+## [Install prerequisites](http://hyperledger-fabric.readthedocs.io/en/latest/getting_started.html#install-prerequisites)
+## [Install Binaries and Docker Images](http://hyperledger-fabric.readthedocs.io/en/latest/getting_started.html#install-binaries-and-docker-images)
+## [Hyperledger Fabric Samples](http://hyperledger-fabric.readthedocs.io/en/latest/getting_started.html#hyperledger-fabric-samples)
+## [Building your first network](http://hyperledger-fabric.readthedocs.io/en/latest/build_network.html)
+
+# [Writing your first application](http://hyperledger-fabric.readthedocs.io/en/latest/write_first_app.html)
+
+
+
+
+
+
 ## Step 1
 If necessary execute the following three commands to remove Docker instances.
    * docker kill $(docker ps -q)
@@ -111,20 +125,13 @@ Response is  [{"Key":"CAR0", "Record":{"colour":"blue","make":"Toyota","model":"
     
 ## Step 3 
 
-# Lab 2: Let's write an app with the Hyperledger Composer!
+# Lab 3: Let's write an app with the Hyperledger Composer!
 ## [Run Hyperledger Composer in your browser](https://hyperledger.github.io/composer/)
 ## [Playground Tutorial](https://hyperledger.github.io/composer/tutorials/playground-guide.html)
 
-# Lab 2: Let's install the Hyperledger Fabric!
-## [Getting Started](http://hyperledger-fabric.readthedocs.io/en/latest/getting_started.html)
-## [Install prerequisites](http://hyperledger-fabric.readthedocs.io/en/latest/getting_started.html#install-prerequisites)
-## [Install Binaries and Docker Images](http://hyperledger-fabric.readthedocs.io/en/latest/getting_started.html#install-binaries-and-docker-images)
-## [Hyperledger Fabric Samples](http://hyperledger-fabric.readthedocs.io/en/latest/getting_started.html#hyperledger-fabric-samples)
-## [Building your first network](http://hyperledger-fabric.readthedocs.io/en/latest/build_network.html)
 
-# [Writing your first application](http://hyperledger-fabric.readthedocs.io/en/latest/write_first_app.html)
-
-# Lab 3: https://developer.ibm.com/code/journey/decentralized-energy-hyperledger-composer/
+# Lab 4: Decentralized Energy with Hyperledger composer 
+https://developer.ibm.com/code/journey/decentralized-energy-hyperledger-composer/
 
 # Where do we go from here?
 
