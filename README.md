@@ -60,6 +60,7 @@ expedites the creation of Hyperledger fabric blockchain applications.
 <hr size="50">
 
 # Lab 1: Let's bring up the Hyperledger Fabric!
+Instructions below from this URL: http://hyperledger-fabric.readthedocs.io/en/latest/build_network.html
    
 ## Step 1
 If necessary execute the following three commands to remove Docker instances.
