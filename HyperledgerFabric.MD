@@ -1,3 +1,5 @@
+
+# Output from command: ./byfn.sh -m up
 ~~~
 Arnes-MBP:first-network arnelennartfrantzell$ ./byfn.sh -m up
 Starting with channel 'mychannel' and CLI timeout of '10000'
