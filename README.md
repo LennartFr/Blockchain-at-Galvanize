@@ -22,7 +22,8 @@ Your instructor: Lennart alf@us.ibm.com
 6:30: Lennart: Introduction of the labs (Developer Journey). 
 6:40: Coding starts.
       Lab 1: Bringing up the Hyperledger Fabric 
-      Lab 2: Working with the Hyperledger Composer
+      Lab 2: Running your first application
+      Lab 3: 
 8:00: Coding ends.
       Where do we go from here?  
       Lab 2: 
@@ -82,9 +83,14 @@ If necessary execute the following three commands to remove Docker instances.
    
    * After checking the output, remember to run ./byfn.sh -m down.
 
-## Lab 2: Let's run our first app app in Hyperledger Fabric
-## Step 1
-## Step 2
+## Lab 2: Let's run our first app app in Hyperledger Fabric http://hyperledger-fabric.readthedocs.io/en/latest/write_first_app.html
+
+## Step 1 Remove not needed artifacts
+    * docker rm -f $(docker ps -aq)
+    * delete chaincode image: docker rmi dev-peer0.org1.example.com-fabcar-1.0
+## Step 2 Navigate to a directory where you want the samples downloaded to and issue the clone command:
+    * git clone https://github.com/hyperledger/fabric-samples.git
+    * cd fabric-samples/fabcar
 ## Step 3
 
 # Lab 2: Let's write an app with the Hyperledger Composer!
