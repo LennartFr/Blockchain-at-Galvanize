@@ -107,7 +107,8 @@ Source: http://hyperledger-fabric.readthedocs.io/en/latest/write_first_app.html
     * Install the SDK Node modules: npm install
     * cd fabcar
     * node query.js
-    ~~~
+   
+   
    Arnes-MBP:fabcar arnelennartfrantzell$ node query.js
    Create a client and set the wallet location
    Set wallet path, and associate user  PeerAdmin  with application
@@ -117,12 +118,12 @@ Source: http://hyperledger-fabric.readthedocs.io/en/latest/write_first_app.html
    returned from query
    Query result count =  1
 Response is  [{"Key":"CAR0", "Record":{"colour":"blue","make":"Toyota","model":"Prius","owner":"Tomoko"}},{"Key":"CAR1",    "Record":{"colour":"red","make":"Ford","model":"Mustang","owner":"Brad"}},{"Key":"CAR2", "Record":{"colour":"green","make":"Hyundai","model":"Tucson","owner":"Jin Soo"}},{"Key":"CAR3", "Record":{"colour":"yellow","make":"Volkswagen","model":"Passat","owner":"Max"}},{"Key":"CAR4", "Record":{"colour":"black","make":"Tesla","model":"S","owner":"Adriana"}},{"Key":"CAR5", "Record":{"colour":"purple","make":"Peugeot","model":"205","owner":"Michel"}},{"Key":"CAR6", "Record":{"colour":"white","make":"Chery","model":"S22L","owner":"Aarav"}},{"Key":"CAR7", "Record":{"colour":"violet","make":"Fiat","model":"Punto","owner":"Pari"}},{"Key":"CAR8", "Record":{"colour":"indigo","make":"Tata","model":"Nano","owner":"Valeria"}},{"Key":"CAR9", "Record":{"colour":"brown","make":"Holden","model":"Barina","owner":"Shotaro"}}]
-~~~
+
     
 ## Step 3 
 * Open the Invoke.js program, locate the request function and change the args section like this, 
 using your own name and args:
-~~~
+
 var request = {
         targets: targets,
         chaincodeId: options.chaincode_id,
@@ -131,7 +132,7 @@ var request = {
         chainId: options.channel_id,
         txId: tx_id
 
-~~~
+
 Save the file and invoke it like this: node invoke.js. You should see the new car appear, stored in the blockchain.
 
 
