@@ -71,9 +71,21 @@ expedites the creation of Hyperledger fabric blockchain applications.
 
 # Where do we go from here?
 
+* https://developer.ibm.com/code/journey/build-your-first-blockchain-application/
+* https://developer.ibm.com/code/journey/create-and-execute-blockchain-smart-contracts/
+* https://developer.ibm.com/code/journey/implement-fda-food-supplier-verification-program-on-hyperledger-composer/
+* https://developer.ibm.com/code/journey/build-a-blockchain-network/
+* https://developer.ibm.com/code/journey/decentralized-energy-hyperledger-composer/
+* https://developer.ibm.com/code/journey/run-blockchain-technology-on-a-linux-mainframe/
+* https://developer.ibm.com/code/journey/create-a-to-do-list-app-using-blockchain/
+* https://developer.ibm.com/code/journey/deploy-an-asset-transfer-app-using-blockchain/
+
+
+
 # Notes
 
 * curl -sSL https://hyperledger.github.io/composer/install-hlfv1.sh | bash
 * composer network deploy -a basic-sample-2.bna -p hlfv1 -i PeerAdmin -s randomString -A admin -S
 * composer network ping -n basic-sample-2 -p hlfv1 -i admin -s adminpw
+* https://developer.ibm.com/tv/hyperledger-composer-build-execute-smart-contract/
 
