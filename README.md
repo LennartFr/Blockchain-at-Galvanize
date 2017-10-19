@@ -83,7 +83,7 @@ If necessary execute the following three commands to remove Docker instances.
    
    * After checking the output, remember to run ./byfn.sh -m down.
 
-# Lab 2: Let's run our first app app in Hyperledger Fabric 
+# Lab 2: Let's run our first application in Hyperledger Fabric 
 Source: http://hyperledger-fabric.readthedocs.io/en/latest/write_first_app.html
 
 ## Step 1 Remove not needed artifacts
