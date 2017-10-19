@@ -94,6 +94,9 @@ If necessary execute the following three commands to remove Docker instances.
     * See what's inside the directory: ls
     * You should see the following: chaincode , invoke.js , network , package.json , query.js , startFabric.sh
     * Start the fabric: ./startFabric.sh
+    * Install the SDK Node modules: npm install
+    * cd fabcar
+    * node query.js
     
 ## Step 3 
 
