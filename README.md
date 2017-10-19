@@ -89,5 +89,5 @@ expedites the creation of Hyperledger fabric blockchain applications.
 * curl -sSL https://hyperledger.github.io/composer/install-hlfv1.sh | bash
 * composer network deploy -a basic-sample-2.bna -p hlfv1 -i PeerAdmin -s randomString -A admin -S
 * composer network ping -n basic-sample-2 -p hlfv1 -i admin -s adminpw
-* https://developer.ibm.com/tv/hyperledger-composer-build-execute-smart-contract/
+* https://developer.ibm.com/tv/hyperledger-composer-build-execute-smart-contract/ 
 
