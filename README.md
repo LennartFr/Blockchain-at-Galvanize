@@ -65,12 +65,16 @@ If necessary execute the following three commands to remove Docker instances.
    * docker rmi $(docker images dev-* -q) 
    
    * Go to the following URL: http://hyperledger-fabric.readthedocs.io/en/latest/samples.html
+   
    Execute the following commands:
+   
    * git clone https://github.com/hyperledger/fabric-samples.git
    * curl -sSL https://goo.gl/Q3YRTi | bash 
     Go to the following URL: http://hyperledger-fabric.readthedocs.io/en/latest/build_network.html
    * cd first-network
+   
    Bring up the Hyperledger Fabric: 
+   
    * ./byfn.sh -m generate
 
 
