@@ -31,6 +31,8 @@ Your instructor: Lennart alf@us.ibm.com
 8:30: Event ends   
 ~~~ 
 
+<img src="https://farm5.staticflickr.com/4458/37560654610_5f042e98c1_z.jpg" width="640" height="72" alt="blueband">
+
 # Let's get started, introduction and documentation
 
 (http://hyperledger-fabric.readthedocs.io/en/latest/samples.html)
