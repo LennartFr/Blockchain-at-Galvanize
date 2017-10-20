@@ -6,7 +6,6 @@
 Learn how to start writing Blockchain applications
 
 # Housekeeping info:
-[Eventbrite Invitation](https://www.eventbrite.com/e/learn-how-to-build-fintech-applications-that-use-watson-ai-tickets-37213362168)
 
 ### Wifi at Galavanize SSID/pass = g|Events / machinelearning
 Your instructor: Lennart alf@us.ibm.com
