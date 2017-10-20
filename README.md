@@ -98,7 +98,8 @@ If necessary execute the following three commands to remove Docker instances.
 # Lab 2: Let's run our first application in Hyperledger Fabric 
 Source: http://hyperledger-fabric.readthedocs.io/en/latest/write_first_app.html
 
-## Pre-reqs: http://hyperledger-fabric.readthedocs.io/en/latest/prereqs.html
+## Pre-reqs: 
+   http://hyperledger-fabric.readthedocs.io/en/latest/prereqs.html
 
 ## Step 1 Remove not needed artifacts
     * docker rm -f $(docker ps -aq)
