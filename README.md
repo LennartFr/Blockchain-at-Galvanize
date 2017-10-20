@@ -41,10 +41,10 @@ is hosted by The Linux Foundation®.
 IBM provides blockchain solutions and services leveraging Hyperledger technologies, 
 including Hyperledger Fabric and Hyperledger Composer.
 
-## [Hyperledger Composer on GitHub](https://github.com/hyperledger/composer)
+## Hyperledger Composer source code on GitHub https://github.com/hyperledger/composer
 Hyperledger Composer is an application development framework which simplifies and expedites the creation of Hyperledger fabric blockchain applications.
 
-## [Hyperledger Fabric on Github](https://github.com/hyperledger/fabric)
+## Hyperledger Fabric source code on Github https://github.com/hyperledger/fabric
 
 Hyperledger Fabric is a platform for distributed ledger solutions, underpinned by 
 a modular architecture delivering high degrees of confidentiality, resiliency, 
