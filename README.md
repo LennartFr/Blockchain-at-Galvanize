@@ -13,6 +13,8 @@ Your instructor: Lennart alf@us.ibm.com
 
 **Assumption: you already know enough of Blockchain to want to start to write Blockchain apps.** 
 
+[Blockchain for Dummies](https://public.dhe.ibm.com/common/ssi/ecm/xi/en/xim12354usen/XIM12354USEN.PDF)
+
 ## Background information: Intro to Blockchain for newbies http://bit.ly/2yIuhJs
 
 # Agenda
