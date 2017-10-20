@@ -59,7 +59,7 @@ A Business Network Archive (BNA) file is exported by the Hyperledger Composer wi
  is an application development framework which simplifies and 
 expedites the creation of Hyperledger fabric blockchain applications.
 
-<hr size="50">
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 # Let the coding begin. Hands-on Workshop
 
@@ -184,6 +184,8 @@ https://developer.ibm.com/code/journey/decentralized-energy-hyperledger-composer
 
 This Developer Journey describes a complete blockchain application with a decentralized energy network with a working user interface.
 It can be completed in around half an hour.
+
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 # Where do we go from here?
 
