@@ -118,6 +118,8 @@ If necessary execute the following three commands to remove Docker instances.
 
 <img src="https://farm5.staticflickr.com/4458/37771305586_6bf75bc2af_o.png" width="853" height="482" alt="hyperledger architecture">
 
+Hyperledger Fabric and its docker images
+
 <img src="https://farm5.staticflickr.com/4506/23967210328_2ab9949bdb_o.png" width="701" height="812" alt="hyper docker">
 
 # Lab 2: Let's run our first application in Hyperledger Fabric 
