@@ -1,7 +1,7 @@
 
 <img src="https://farm5.staticflickr.com/4486/37770438926_5d9ae5074a_o.png" width="775" height="142" alt="bluebandtitle">
 
-[URL to this page](http://bit.ly/2yQxJpo) http://bit.ly/2yQxJpo 
+[URL to this page](http://ibm.biz/blockchaingalvanize) http://ibm.biz/blockchaingalvanize 
 
 Learn how to start writing Blockchain applications
 
