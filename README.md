@@ -221,7 +221,8 @@ IBM has a series of Developer Journeys covering various aspects of Blockchain, w
 * https://developer.ibm.com/code/journey/create-a-to-do-list-app-using-blockchain/
 * https://developer.ibm.com/code/journey/deploy-an-asset-transfer-app-using-blockchain/
 
-
+* Use Issues to log suggestions
+https://github.com/LennartFr/Blockchain-at-Galvanize/issues/1
 
 # Notes
 
