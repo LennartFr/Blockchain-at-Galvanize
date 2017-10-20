@@ -1,7 +1,8 @@
 
+<img src="https://farm5.staticflickr.com/4486/37770438926_5d9ae5074a_o.png" width="775" height="142" alt="bluebandtitle">
+
 [URL to this page](http://bit.ly/2yQxJpo) http://bit.ly/2yQxJpo 
 
-# 2017-10-23-Blockchain-at-Galvanize 
 Learn how to start writing Blockchain applications
 
 [EventBrite](https://www.eventbrite.com/e/learn-how-to-develop-blockchain-apps-tickets-38129072081)
