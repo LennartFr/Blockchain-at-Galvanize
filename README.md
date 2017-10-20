@@ -11,7 +11,7 @@ Learn how to start writing Blockchain applications
 ### Wifi at Galavanize SSID/pass = g|Events / machinelearning
 Your instructor: Lennart alf@us.ibm.com
 
-**Assumption: you already know enough of Blockchain to want to learn to write Blockchain apps.** 
+**Assumption: you already know enough of Blockchain to want to start to write Blockchain apps.** 
 
 ## Intro to Blockchain for newbies http://bit.ly/2yIuhJs
 
