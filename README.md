@@ -61,7 +61,8 @@ expedites the creation of Hyperledger fabric blockchain applications.
 
 # Let the coding begin. Hands-on Workshop
 
-
+## Pre-reqs: 
+   http://hyperledger-fabric.readthedocs.io/en/latest/prereqs.html
 
 ## Lab 1: Let's bring up the Hyperledger Fabric!
 Instructions below from this URL: 
@@ -99,11 +100,8 @@ If necessary execute the following three commands to remove Docker instances.
  ## Step 4 (optional) Configurate your Hyperledger Fabric instance.  
  http://hyperledger-fabric.readthedocs.io/en/latest/build_network.html
 
-# Lab 2: Let's run our first application in Hyperledger Fabric 
+## Lab 2: Let's run our first application in Hyperledger Fabric 
 Source: http://hyperledger-fabric.readthedocs.io/en/latest/write_first_app.html
-
-## Pre-reqs: 
-   http://hyperledger-fabric.readthedocs.io/en/latest/prereqs.html
 
 ## Step 1 Remove not needed artifacts
     * docker rm -f $(docker ps -aq)
