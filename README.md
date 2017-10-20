@@ -31,7 +31,7 @@ Your instructor: Lennart alf@us.ibm.com
 8:30: Event ends   
 ~~~ 
 
-<img src="https://farm5.staticflickr.com/4458/37560654610_5f042e98c1_z.jpg" width="640" height="72" alt="blueband">
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 # Let's get started, introduction and documentation
 
