@@ -13,7 +13,7 @@ Your instructor: Lennart alf@us.ibm.com
 
 **Assumption: you already know enough of Blockchain to want to start to write Blockchain apps.** 
 
-## Intro to Blockchain for newbies http://bit.ly/2yIuhJs
+## Background information: Intro to Blockchain for newbies http://bit.ly/2yIuhJs
 
 # Agenda
 ~~~
