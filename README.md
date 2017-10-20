@@ -1,5 +1,5 @@
 
-<img src="https://farm5.staticflickr.com/4486/37770438926_5d9ae5074a_o.png" width="775" height="142" alt="bluebandtitle">
+<img src="https://farm5.staticflickr.com/4477/37819497381_afe8896658_o.png" width="773" height="134" alt="bluebandtitle">
 
 [URL to this page](http://ibm.biz/blockchaingalvanize) http://ibm.biz/blockchaingalvanize 
 
