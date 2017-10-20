@@ -126,7 +126,7 @@ Source: http://hyperledger-fabric.readthedocs.io/en/latest/write_first_app.html
     * docker rm -f $(docker ps -aq)
     * delete chaincode image: docker rmi dev-peer0.org1.example.com-fabcar-1.0
     
-## Step 2 Navigate to a directory where you want the samples downloaded to issue these commands:
+## Step 2 Navigate to a directory where you want the samples downloaded to, and issue these commands:
     * git clone https://github.com/hyperledger/fabric-samples.git
     * cd fabric-samples/fabcar
     * See what's inside the directory: ls
