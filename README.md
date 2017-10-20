@@ -115,6 +115,7 @@ If necessary execute the following three commands to remove Docker instances.
  ### Step 4 (optional) Configurate your Hyperledger Fabric instance.  
  http://hyperledger-fabric.readthedocs.io/en/latest/build_network.html
 
+* The Hyperledger architecture. 
 
 <img src="https://farm5.staticflickr.com/4458/37771305586_6bf75bc2af_o.png" width="853" height="482" alt="hyperledger architecture">
 
