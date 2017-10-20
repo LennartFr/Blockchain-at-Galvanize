@@ -105,6 +105,7 @@ If necessary execute the following three commands to remove Docker instances.
 ## Step 3 
    * Instructions below come from the following URL:  
       http://hyperledger-fabric.readthedocs.io/en/latest/build_network.html
+      
    Bring up the Hyperledger Fabric: 
    * cd first-network
    * ./byfn.sh -m generate
