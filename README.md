@@ -12,10 +12,10 @@ Learn how to start writing Blockchain applications
 Your instructor: Lennart alf@us.ibm.com
 
 **Assumption: you already know enough of Blockchain to want to start to write Blockchain apps.** 
+
 [Blockchain for Dummies](https://public.dhe.ibm.com/common/ssi/ecm/xi/en/xim12354usen/XIM12354USEN.PDF)
 
-# October 2008 It all started with Satoshi Nakamoto and his paper [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) 
-which addressed a key problem in electronic commerce:
+October 2008 It all started with Satoshi Nakamoto and his paper [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) which addressed a key problem in electronic commerce:
 ~~~
 A purely peer-to-peer version of electronic cash would allow online payments to be sent directly 
 from one party to another without going through a financial institution. 
