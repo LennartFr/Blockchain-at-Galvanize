@@ -151,6 +151,25 @@ Save the file and invoke it like this: node invoke.js. You should see the new ca
 
 ## [Composer Playground and the Perishable Goods Network](https://github.com/LennartFr/Blockchain-at-Galvanize/blob/master/Hyperledger%20Composer%20Perishable%20Food%20Network.pdf)
 
+Arnes-MBP:bnafile arnelennartfrantzell$ composer network deploy -p hlfv1 -a my-basic-sample.bna -i PeerAdmin -s randomString -A admin -S
+Deploying business network from archive: my-basic-sample.bna
+Business network definition:
+	Identifier: my-basic-sample@0.1.10
+	Description: The Composer basic sample network
+
+✔ Deploying business network definition. This may take a minute...
+
+
+Command succeeded
+
+Arnes-MBP:bnafile arnelennartfrantzell$ composer network ping -n my-basic-sample -p hlfv1 -i admin -s adminpw
+The connection to the network was successfully tested: my-basic-sample
+	version: 0.14.1
+	participant: org.hyperledger.composer.system.NetworkAdmin#admin
+
+Command succeeded
+
+
 # Lab 4: Decentralized Energy with Hyperledger composer 
 https://developer.ibm.com/code/journey/decentralized-energy-hyperledger-composer/
 
