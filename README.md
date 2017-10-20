@@ -12,7 +12,7 @@ Your instructor: Lennart alf@us.ibm.com
 
 # Agenda
 ~~~
-6:00  Sign-in, mingle, food, welcome. Intro of Tom Eck, IBM CTO Industry Platforms
+6:00  Sign-in, mingle, food, welcome. 
 6:20: Introduction to IBM Blockchain and Hyperledger: 
 6:30: Lennart: Introduction of the labs (Developer Journey). 
 6:40: Coding starts.
@@ -47,7 +47,7 @@ is still required to prevent double-spending.
 We propose a solution to the double-spending problem using a peer-to-peer network.
 ~~~
 
-
+We wil use the open source Hyperledger implementation of Blockchain.
 
 (http://hyperledger-fabric.readthedocs.io/en/latest/samples.html)
 
