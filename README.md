@@ -174,6 +174,8 @@ The connection to the network was successfully tested: my-basic-sample
 
 Command succeeded
 
+https://hyperledger.github.io/composer/reference/commands.html
+
 
 # Lab 4: Decentralized Energy with Hyperledger composer 
 https://developer.ibm.com/code/journey/decentralized-energy-hyperledger-composer/
