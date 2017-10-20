@@ -89,12 +89,12 @@ Instructions below from this URL:
 * http://hyperledger-fabric.readthedocs.io/en/latest/build_network.html
 * http://hyperledger-fabric.readthedocs.io/en/latest/write_first_app.html
 
-## Step 1
+### Step 1
 If necessary execute the following three commands to remove Docker instances.
    * docker kill $(docker ps -q)
    * docker rm $(docker ps -aq)
    * docker rmi $(docker images dev-* -q) 
-## Step 2   
+### Step 2   
     Instructions below come from the following URL: http://hyperledger-fabric.readthedocs.io/en/latest/samples.html  
     From a terminal window on your laptop, execute the following commands:
    * git clone https://github.com/hyperledger/fabric-samples.git into a directory on your laptop
@@ -102,7 +102,7 @@ If necessary execute the following three commands to remove Docker instances.
    * curl -sSL https://goo.gl/Q3YRTi | bash   
    * export PATH=<path to download location>/bin:$PATH  
   
-## Step 3 
+### Step 3 
    * Instructions below come from the following URL:  
       http://hyperledger-fabric.readthedocs.io/en/latest/build_network.html
       
@@ -112,7 +112,7 @@ If necessary execute the following three commands to remove Docker instances.
    * ./byfn.sh -m up. //See full output from command on this link http://bit.ly/2yyTeIj
       * After checking the output, remember to run ./byfn.sh -m down.
    
- ## Step 4 (optional) Configurate your Hyperledger Fabric instance.  
+ ### Step 4 (optional) Configurate your Hyperledger Fabric instance.  
  http://hyperledger-fabric.readthedocs.io/en/latest/build_network.html
 
 
