@@ -95,11 +95,11 @@ If necessary execute the following three commands to remove Docker instances.
    * docker rm $(docker ps -aq)
    * docker rmi $(docker images dev-* -q) 
 ## Step 2   
-   * Instructions below come from the following URL: http://hyperledger-fabric.readthedocs.io/en/latest/samples.html  
-    Execute the following commands:
+    Instructions below come from the following URL: http://hyperledger-fabric.readthedocs.io/en/latest/samples.html  
+    From a terminal window on your laptop, execute the following commands:
    * git clone https://github.com/hyperledger/fabric-samples.git into a directory on your laptop
-   * From that directory on your laptop (see above) invoke:
-     curl -sSL https://goo.gl/Q3YRTi | bash   
+   From that directory on your laptop (see above) invoke:
+   * curl -sSL https://goo.gl/Q3YRTi | bash   
    * export PATH=<path to download location>/bin:$PATH  
   
 ## Step 3 
