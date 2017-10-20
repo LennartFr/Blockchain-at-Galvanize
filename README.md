@@ -17,12 +17,12 @@ Your instructor: Lennart alf@us.ibm.com
 6:30: Lennart: Introduction of the labs (Developer Journey). 
 6:40: Coding starts.
       Lab 1: Bringing up the Hyperledger Fabric 
-      Lab 2: Running your first application
-      Lab 3: 
+      Lab 2: Let's run our first application in Hyperledger Fabric
+      Lab 3: Let's write an app with the Hyperledger Composer!
 8:00: Coding ends.
       Where do we go from here?  
-      Lab 2: 
-      Lab 3:
+      Lab 4: Decentralized Energy with Hyperledger composer 
+      
 8:30: Event ends   
 ~~~ 
 
