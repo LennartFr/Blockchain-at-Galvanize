@@ -86,6 +86,21 @@ Source: http://hyperledger-fabric.readthedocs.io/en/latest/write_first_app.html
     * See what's inside the directory: ls
     * You should see the following: chaincode , invoke.js , network , package.json , query.js , startFabric.sh
     * Start the fabric: ./startFabric.sh
+    
+    ~~~
+    Creating network "net_basic" with the default driver
+    Creating couchdb ... 
+    Creating ca.example.com ... 
+    Creating orderer.example.com ... 
+    Creating ca.example.com
+    Creating orderer.example.com
+    Creating couchdb ... done
+    Creating peer0.org1.example.com ... 
+    Creating peer0.org1.example.com ... done
+    ~~~
+    
+    
+    
     * Install the SDK Node modules: npm install
     * cd fabcar
     * node query.js
