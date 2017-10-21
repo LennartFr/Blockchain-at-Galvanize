@@ -176,7 +176,7 @@ Save the file and invoke it like this: node invoke.js. You should see the new ca
 
 ## Deploy bna file on hyperledger fabric
 https://hyperledger.github.io/composer/business-network/bnd-deploy.html
-
+``~
 Arnes-MBP:bnafile arnelennartfrantzell$ composer network deploy -p hlfv1 -a my-basic-sample.bna -i PeerAdmin -s randomString -A admin -S
 Deploying business network from archive: my-basic-sample.bna
 Business network definition:
@@ -185,18 +185,17 @@ Business network definition:
 
 ✔ Deploying business network definition. This may take a minute...
 
-
 Command succeeded
-
+~~~
 ## ping application on hyperledger composer
-
+~~~
 Arnes-MBP:bnafile arnelennartfrantzell$ composer network ping -n my-basic-sample -p hlfv1 -i admin -s adminpw
 The connection to the network was successfully tested: my-basic-sample
 	version: 0.14.1
 	participant: org.hyperledger.composer.system.NetworkAdmin#admin
 
 Command succeeded
-
+~~~
 https://hyperledger.github.io/composer/reference/commands.html
 
 
