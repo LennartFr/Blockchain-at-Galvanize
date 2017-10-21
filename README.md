@@ -82,7 +82,7 @@ expedites the creation of Hyperledger fabric blockchain applications.
 
 <img src="https://farm5.staticflickr.com/4506/23967210328_2ab9949bdb_o.png" width="701" height="812" alt="hyper docker">
 
-# Lab 2: Let's run our first application in Hyperledger Fabric 
+# Lab 1: Let's run our first application in Hyperledger Fabric 
 Source: http://hyperledger-fabric.readthedocs.io/en/latest/write_first_app.html
 
 ## Step 1 Remove not needed artifacts
@@ -127,7 +127,7 @@ Save the file and invoke it like this: node invoke.js.
 You should see the new car appear, stored in the blockchain.
 ~~~
 
-# Lab 3: Let's write an app with the Hyperledger Composer!
+# Lab 2: Let's write an app with the Hyperledger Composer!
 <img src="https://farm5.staticflickr.com/4445/37751618086_06402e4b2e_b.jpg" width="766" height="532" alt="Composer Playground">
 [Playground Tutorial](https://hyperledger.github.io/composer/tutorials/playground-guide.html)
 
@@ -160,7 +160,7 @@ Command succeeded
 https://hyperledger.github.io/composer/reference/commands.html
 
 
-# Lab 4: Decentralized Energy with Hyperledger composer 
+# Lab 3: Decentralized Energy with Hyperledger composer 
 https://developer.ibm.com/code/journey/decentralized-energy-hyperledger-composer/
 
 This Developer Journey describes a complete blockchain application with a decentralized energy network with a working user interface.
