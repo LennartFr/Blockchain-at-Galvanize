@@ -45,6 +45,8 @@ We propose a solution to the double-spending problem using a peer-to-peer networ
 
 **In this workshop we will use the Hyperledger implementation of Blockchain.**
 
+<img src="https://farm5.staticflickr.com/4476/37516361780_bd2498768d_o.png" width="725" height="519" alt="Hyperledger">
+
 Hyperledger, an open source collaborative effort to advance cross-industry blockchain technologies, 
 is hosted by The Linux Foundation®. 
 
