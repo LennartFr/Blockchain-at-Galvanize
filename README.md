@@ -102,7 +102,9 @@ Source: http://hyperledger-fabric.readthedocs.io/en/latest/write_first_app.html
     
     Creating peer0.org1.example.com ...
     
-    Creating peer0.org1.example.com ... done
+    Creating peer0.org1.example.com ... 
+    
+    done
   </i>
     * Install the SDK Node modules: npm install
     * cd fabcar
