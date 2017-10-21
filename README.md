@@ -1,9 +1,7 @@
 
 <img src="https://farm5.staticflickr.com/4477/37819497381_afe8896658_o.png" width="773" height="134" alt="bluebandtitle">
 
-![https://farm5.staticflickr.com/4477/37819497381_afe8896658_o.png" width="773" height="134" alt="bluebandtitle)
-
-<a href="https://github.com/LennartFr/Blockchain-at-Galvanize/edit/master/README.md">img src="https://farm5.staticflickr.com/4477/37819497381_afe8896658_o.png" width="773" height="134"</a>
+<a href="https://github.com/LennartFr/Blockchain-at-Galvanize/edit/master/README.md"><img src="https://farm5.staticflickr.com/4477/37819497381_afe8896658_o.png" width="773" height="134"></a>
 
 [URL to this page](http://ibm.biz/blockchaingalvanize) http://ibm.biz/blockchaingalvanize 
 
