@@ -107,9 +107,11 @@ Source: http://hyperledger-fabric.readthedocs.io/en/latest/write_first_app.html
     done
   </i>
     * Install the SDK Node modules: npm install
+    
     * cd fabcar
+    
     * node query.js
-   
+       
   output;
    Arnes-MBP:fabcar arnelennartfrantzell
    $ node query.js
