@@ -14,12 +14,11 @@ Your instructor: Lennart alf@us.ibm.com
 6:20: Introduction to IBM Blockchain and Hyperledger: 
 6:30: Lennart: Introduction of the labs. 
 6:40: Coding starts.
-      Lab 1: Bringing up the Hyperledger Fabric 
-      Lab 2: Let's run our first application in Hyperledger Fabric
-      Lab 3: Let's write an app with the Hyperledger Composer!
+      Lab 1: Let's run our first application in Hyperledger Fabric
+      Lab 2: Let's write an app with the Hyperledger Composer!
 8:00: Coding ends.
       Where do we go from here?  
-      Lab 4: Decentralized Energy with Hyperledger composer 
+      Lab 3: Decentralized Energy with Hyperledger composer 
 8:30: Event ends   
 ~~~ 
  
@@ -74,42 +73,6 @@ expedites the creation of Hyperledger fabric blockchain applications.
 ## Pre-reqs: 
    http://hyperledger-fabric.readthedocs.io/en/latest/prereqs.html
 
-## Lab 1: Let's bring up the Hyperledger Fabric!
-Instructions below from this URL: 
-* http://hyperledger-fabric.readthedocs.io/en/latest/build_network.html 
-* http://hyperledger-fabric.readthedocs.io/en/latest/samples.html
-* http://hyperledger-fabric.readthedocs.io/en/latest/getting_started.html
-* http://hyperledger-fabric.readthedocs.io/en/latest/getting_started.html#install-prerequisites)
-* http://hyperledger-fabric.readthedocs.io/en/latest/getting_started.html#install-binaries-and-docker-images
-* http://hyperledger-fabric.readthedocs.io/en/latest/getting_started.html#hyperledger-fabric-samples
-* http://hyperledger-fabric.readthedocs.io/en/latest/build_network.html
-* http://hyperledger-fabric.readthedocs.io/en/latest/write_first_app.html
-
-### Step 1
-Only if necessary, execute the following three commands to remove existing Docker instances.
-   * docker kill $(docker ps -q)
-   * docker rm $(docker ps -aq)
-   * docker rmi $(docker images dev-* -q) 
-### Step 2   
-    Instructions below come from the following URL: http://hyperledger-fabric.readthedocs.io/en/latest/samples.html  
-    From a terminal window on your laptop, execute the following commands:
-   * git clone https://github.com/hyperledger/fabric-samples.git into a directory on your laptop
-   From that directory on your laptop (see above) invoke:
-   * curl -sSL https://goo.gl/Q3YRTi | bash   
-   * export PATH=<path to download location>/bin:$PATH  
-  
-### Step 3 
-   * Instructions below come from the following URL:  
-      http://hyperledger-fabric.readthedocs.io/en/latest/build_network.html
-      
-   Bring up the Hyperledger Fabric: 
-   * cd first-network
-   * ./byfn.sh -m generate
-   * ./byfn.sh -m up. //See full output from command on this link http://bit.ly/2yyTeIj
-      * After checking the output, remember to run ./byfn.sh -m down.
-   
- ### Step 4 (optional) Configurate your Hyperledger Fabric instance.  
- http://hyperledger-fabric.readthedocs.io/en/latest/build_network.html
 
 # The Hyperledger architecture.  
 
@@ -227,4 +190,42 @@ https://github.com/LennartFr/Blockchain-at-Galvanize/issues/1
 * composer network deploy -a basic-sample-2.bna -p hlfv1 -i PeerAdmin -s randomString -A admin -S
 * composer network ping -n basic-sample-2 -p hlfv1 -i admin -s adminpw
 * https://developer.ibm.com/tv/hyperledger-composer-build-execute-smart-contract/ 
+
+## Lab 1: Let's bring up the Hyperledger Fabric!
+Instructions below from this URL: 
+* http://hyperledger-fabric.readthedocs.io/en/latest/build_network.html 
+* http://hyperledger-fabric.readthedocs.io/en/latest/samples.html
+* http://hyperledger-fabric.readthedocs.io/en/latest/getting_started.html
+* http://hyperledger-fabric.readthedocs.io/en/latest/getting_started.html#install-prerequisites)
+* http://hyperledger-fabric.readthedocs.io/en/latest/getting_started.html#install-binaries-and-docker-images
+* http://hyperledger-fabric.readthedocs.io/en/latest/getting_started.html#hyperledger-fabric-samples
+* http://hyperledger-fabric.readthedocs.io/en/latest/build_network.html
+* http://hyperledger-fabric.readthedocs.io/en/latest/write_first_app.html
+
+### Step 1
+Only if necessary, execute the following three commands to remove existing Docker instances.
+   * docker kill $(docker ps -q)
+   * docker rm $(docker ps -aq)
+   * docker rmi $(docker images dev-* -q) 
+### Step 2   
+    Instructions below come from the following URL: http://hyperledger-fabric.readthedocs.io/en/latest/samples.html  
+    From a terminal window on your laptop, execute the following commands:
+   * git clone https://github.com/hyperledger/fabric-samples.git into a directory on your laptop
+   From that directory on your laptop (see above) invoke:
+   * curl -sSL https://goo.gl/Q3YRTi | bash   
+   * export PATH=<path to download location>/bin:$PATH  
+  
+### Step 3 
+   * Instructions below come from the following URL:  
+      http://hyperledger-fabric.readthedocs.io/en/latest/build_network.html
+      
+   Bring up the Hyperledger Fabric: 
+   * cd first-network
+   * ./byfn.sh -m generate
+   * ./byfn.sh -m up. //See full output from command on this link http://bit.ly/2yyTeIj
+   * After checking the output, remember to run ./byfn.sh -m down.
+   
+ ### Step 4 (optional) Configurate your Hyperledger Fabric instance.  
+ http://hyperledger-fabric.readthedocs.io/en/latest/build_network.html
+
 
