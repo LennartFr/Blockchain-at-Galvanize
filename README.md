@@ -45,7 +45,7 @@ is still required to prevent double-spending.
 We propose a solution to the double-spending problem using a peer-to-peer network.
 ~~~
 
-We wil use the open source Hyperledger implementation of Blockchain.
+We will use the Hyperledger implementation of Blockchain.
 
 (http://hyperledger-fabric.readthedocs.io/en/latest/samples.html)
 
