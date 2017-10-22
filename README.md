@@ -45,6 +45,7 @@ Digital signatures provide part of the solution, but the main benefits are lost 
 is still required to prevent double-spending.
 
 We propose a solution to the double-spending problem using a peer-to-peer network.</i>
+
 ---
 
 **In this workshop we will use the Hyperledger implementation of Blockchain : http://hyperledger.org/**
