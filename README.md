@@ -232,7 +232,7 @@ Command succeeded
 
 
 https://hyperledger.github.io/composer/reference/commands.html
-
+~~~
 
 # Lab 3: Decentralized Energy with Hyperledger composer 
 https://developer.ibm.com/code/journey/decentralized-energy-hyperledger-composer/
@@ -241,6 +241,8 @@ This Developer Journey describes a complete blockchain application with a decent
 It can be completed in around half an hour.
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
+
+
 
 
 # Where do we go from here?
