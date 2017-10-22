@@ -157,7 +157,7 @@ var request = {
         txId: tx_id
 
 Save the file and invoke it like this: node invoke.js. 
-Followed by node query.js
+Followed by: node query.js
 You should see the new car appear, stored in the blockchain.
 ~~~
 
