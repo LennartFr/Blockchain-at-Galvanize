@@ -220,15 +220,17 @@ Business network definition:
 
 Command succeeded
 ~~~
+
 ## ping application on hyperledger composer
-~~~
+
 Arnes-MBP:bnafile arnelennartfrantzell$ composer network ping -n my-basic-sample -p hlfv1 -i admin -s adminpw
 The connection to the network was successfully tested: my-basic-sample
 	version: 0.14.1
 	participant: org.hyperledger.composer.system.NetworkAdmin#admin
 
 Command succeeded
-~~~
+
+
 https://hyperledger.github.io/composer/reference/commands.html
 
 
