@@ -235,6 +235,7 @@ It can be completed in around half an hour.
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
+
 # Where do we go from here?
 
 IBM has a series of Developer Journeys covering various aspects of Blockchain, with more being added regularly. 
