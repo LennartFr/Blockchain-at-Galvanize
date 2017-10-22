@@ -195,6 +195,7 @@ You will see that the new owner is now Syed.
 
 # Lab 2: Let's write an app with the Hyperledger Composer!
 <img src="https://farm5.staticflickr.com/4445/37751618086_06402e4b2e_b.jpg" width="766" height="532" alt="Composer Playground">
+
 [Playground Tutorial](https://hyperledger.github.io/composer/tutorials/playground-guide.html)
 
 ## Run Hyperledger Composer in your browser https://hyperledger.github.io/composer/
