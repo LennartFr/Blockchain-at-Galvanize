@@ -80,8 +80,8 @@ We will be developing on our laptops. MacOS, Ubuntu or Windows.
 
 ## Step 1 Remove not needed artifacts
 
-     docker rm -f $(docker ps -aq)
-     delete chaincode image: docker rmi dev-peer0.org1.example.com-fabcar-1.0
+     * docker rm -f $(docker ps -aq)
+     * delete chaincode image: docker rmi dev-peer0.org1.example.com-fabcar-1.0
     
 ## Step 2 Navigate to a directory where you want the samples downloaded to, and issue these commands:
 
