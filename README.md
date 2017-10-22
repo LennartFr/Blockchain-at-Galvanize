@@ -161,6 +161,23 @@ Followed by node query.js
 You should see the new car appear, stored in the blockchain.
 ~~~
 
+## Step 4 Now let's change car ownership
+
+~~~
+// createCar - requires 5 args, ex: args: ['CAR11', 'Honda', 'Accord', 'Black', 'Tom'],
+    // changeCarOwner - requires 2 args , ex: args: ['CAR10', 'Barry'],
+    // send proposal to endorser
+    var request = {
+        targets: targets,
+        chaincodeId: options.chaincode_id,
+     // fcn: 'createCar',
+        fcn: 'changeCarOwner',
+     // args: ['CAR10', 'Chevy', 'Volt', 'Red', 'Lennart'],
+        args: ['CAR10', 'Syed'],
+        chainId: options.channel_id,
+        txId: tx_id
+    };
+
 # The Hyperledger architecture.  
 
 <img src="https://farm5.staticflickr.com/4458/37771305586_6bf75bc2af_o.png" width="853" height="482" alt="hyperledger architecture">
