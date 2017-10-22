@@ -8,6 +8,8 @@
 ### Wifi at Galavanize SSID/pass = g|Events / machinelearning
 Your instructor: Lennart alf@us.ibm.com
 
+# Assumption: you already know enough of Blockchain to want to start to write Blockchain apps. 
+
 # Agenda
 ~~~
 6:00  Sign-in, mingle, food, welcome. 
@@ -24,8 +26,6 @@ Your instructor: Lennart alf@us.ibm.com
 
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
-
-# Assumption: you already know enough of Blockchain to want to start to write Blockchain apps. 
 
 # Let's get started, introduction and documentation
 
