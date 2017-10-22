@@ -50,8 +50,6 @@ We propose a solution to the double-spending problem using a peer-to-peer networ
 
 **In this workshop we will use the Hyperledger implementation of Blockchain : http://hyperledger.org/**
 
-<img src="https://farm5.staticflickr.com/4476/37516361780_bd2498768d_o.png" width="725" height="519" alt="Hyperledger">
-
 Hyperledger, an open source collaborative effort to advance cross-industry blockchain technologies, 
 is hosted by The Linux Foundation®. 
 
@@ -59,6 +57,8 @@ Deployed in Docker images.
 
 IBM provides blockchain solutions and services leveraging Hyperledger technologies, 
 including Hyperledger Fabric and Hyperledger Composer.
+
+<img src="https://farm5.staticflickr.com/4476/37516361780_bd2498768d_o.png" width="725" height="519" alt="Hyperledger">
 
 ### Hyperledger Composer source code on GitHub https://github.com/hyperledger/composer
 Hyperledger Composer is an application development framework which simplifies and expedites the creation of Hyperledger fabric blockchain applications.
