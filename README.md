@@ -200,7 +200,7 @@ You will see that the new owner is now Syed.
 
 ## Run Hyperledger Composer in your browser https://hyperledger.github.io/composer/
 
-## [Composer Playground and the Perishable Goods Network](https://github.com/LennartFr/Blockchain-at-Galvanize/blob/master/Hyperledger%20Composer%20Perishable%20Food%20Network.pdf)
+## [Instructions: Composer Playground and the Perishable Goods Network](https://github.com/LennartFr/Blockchain-at-Galvanize/blob/master/Hyperledger%20Composer%20Perishable%20Food%20Network.pdf)
 
 ## Deploy bna file on hyperledger fabric
 https://hyperledger.github.io/composer/business-network/bnd-deploy.html
