@@ -177,6 +177,11 @@ You should see the new car appear, stored in the blockchain.
         chainId: options.channel_id,
         txId: tx_id
     };
+~~~
+
+Again, enter node query.js.
+
+You will see that the new owner is now Syed.
 
 # The Hyperledger architecture.  
 
