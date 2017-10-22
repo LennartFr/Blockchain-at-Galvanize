@@ -92,6 +92,8 @@ We will be developing on our laptops. MacOS, Ubuntu or Windows.
       startFabric.sh
     * Start the fabric: ./startFabric.sh
    
+   Output:
+   
   <i>  Creating network "net_basic" with the default driver
     Creating couchdb ... 
     
