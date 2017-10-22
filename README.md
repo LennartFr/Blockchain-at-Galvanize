@@ -71,7 +71,7 @@ flexibility and scalability. It is designed to support pluggable implementations
 of different components, and accommodate the complexity and intricacies that exist 
 across the economic ecosystem.
 
-### [The .BNA file](https://hyperledger.github.io/composer/reference/commands.html)
+### [The .bna file](https://hyperledger.github.io/composer/reference/commands.html)
 A Business Network Archive (BNA) file is exported by the Hyperledger Composer with the extension of .bna, and contains the definitions all the definitions for a Business Network. It is deployed in a Hyper Ledger Fabric. 
  is an application development framework which simplifies and 
 expedites the creation of Hyperledger fabric blockchain applications.
