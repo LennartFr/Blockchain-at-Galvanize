@@ -21,12 +21,14 @@ Your instructor: Lennart alf@us.ibm.com
       Lab 3: Decentralized Energy with Hyperledger composer 
 8:30: Event ends   
 ~~~ 
- 
+
+
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
+
+*Assumption: you already know enough of Blockchain to want to start to write Blockchain apps.* 
 
 # Let's get started, introduction and documentation
 
-**Assumption: you already know enough of Blockchain to want to start to write Blockchain apps.** 
 
 <img src="https://farm5.staticflickr.com/4338/36822231841_bc13a7147a_z.jpg" width="640" height="164" alt="IBMBlockchain1">
 
