@@ -76,6 +76,8 @@ expedites the creation of Hyperledger fabric blockchain applications.
 # Lab 1: Let's run our first application in Hyperledger Fabric 
 Source: http://hyperledger-fabric.readthedocs.io/en/latest/write_first_app.html
 
+We will be developing on our laptops. MacOS, Ubuntu or Windows.
+
 ## Step 1 Remove not needed artifacts
     * docker rm -f $(docker ps -aq)
     * delete chaincode image: docker rmi dev-peer0.org1.example.com-fabcar-1.0
