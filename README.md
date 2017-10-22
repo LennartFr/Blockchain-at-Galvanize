@@ -1,7 +1,7 @@
 
 <a href="https://github.com/LennartFr/Blockchain-at-Galvanize/blob/master/README.md"><img src="https://farm5.staticflickr.com/4477/37819497381_afe8896658_o.png" width="773" height="134"></a>
 
-# Learn how to writing Blockchain applications
+# Introduction to writing Blockchain applications
 
 # Housekeeping info:
 
