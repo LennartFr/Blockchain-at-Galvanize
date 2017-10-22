@@ -89,16 +89,16 @@ We will be developing on our laptops. MacOS, Ubuntu or Windows.
 ## Step 1 Remove not needed artifacts
 
      1 docker rm -f $(docker ps -aq)
-     1 docker rmi dev-peer0.org1.example.com-fabcar-1.0  //delete chaincode image
+     2 docker rmi dev-peer0.org1.example.com-fabcar-1.0  //delete chaincode image
     
 ## Step 2 Navigate to a directory where you want the samples downloaded to, and issue these commands:
 
-    * git clone https://github.com/hyperledger/fabric-samples.git
-    * cd fabric-samples/fabcar
-    * See what's inside the directory: ls
-    * You should see the following: chaincode , invoke.js , network , package.json , query.js , 
+    1 git clone https://github.com/hyperledger/fabric-samples.git
+    2 cd fabric-samples/fabcar
+    3 See what's inside the directory: ls
+    4 You should see the following: chaincode , invoke.js , network , package.json , query.js , 
       startFabric.sh
-    * Start the fabric: ./startFabric.sh
+    5 Start the fabric: ./startFabric.sh
    
    Output:
    
