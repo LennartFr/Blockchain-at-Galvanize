@@ -26,7 +26,6 @@ Your instructor: Lennart alf@us.ibm.com
 8:30: Event ends   
 ~~~ 
 
-
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 # Let's get started, introduction and documentation
@@ -53,13 +52,15 @@ We propose a solution to the double-spending problem using a peer-to-peer networ
 Hyperledger, an open source collaborative effort to advance cross-industry blockchain technologies, 
 is hosted by The Linux Foundation®. 
 
+Deployed in Docker images.
+
 IBM provides blockchain solutions and services leveraging Hyperledger technologies, 
 including Hyperledger Fabric and Hyperledger Composer.
 
-## Hyperledger Composer source code on GitHub https://github.com/hyperledger/composer
+### Hyperledger Composer source code on GitHub https://github.com/hyperledger/composer
 Hyperledger Composer is an application development framework which simplifies and expedites the creation of Hyperledger fabric blockchain applications.
 
-## Hyperledger Fabric source code on Github https://github.com/hyperledger/fabric
+### Hyperledger Fabric source code on Github https://github.com/hyperledger/fabric
 
 Hyperledger Fabric is a platform for distributed ledger solutions, underpinned by 
 a modular architecture delivering high degrees of confidentiality, resiliency, 
@@ -67,7 +68,7 @@ flexibility and scalability. It is designed to support pluggable implementations
 of different components, and accommodate the complexity and intricacies that exist 
 across the economic ecosystem.
 
-## [The .BNA file](https://hyperledger.github.io/composer/reference/commands.html)
+### [The .BNA file](https://hyperledger.github.io/composer/reference/commands.html)
 A Business Network Archive (BNA) file is exported by the Hyperledger Composer with the extension of .bna, and contains the definitions all the definitions for a Business Network. It is deployed in a Hyper Ledger Fabric. 
  is an application development framework which simplifies and 
 expedites the creation of Hyperledger fabric blockchain applications.
