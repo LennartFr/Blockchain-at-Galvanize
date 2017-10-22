@@ -88,7 +88,8 @@ We will be developing on our laptops. MacOS, Ubuntu or Windows.
     * git clone https://github.com/hyperledger/fabric-samples.git
     * cd fabric-samples/fabcar
     * See what's inside the directory: ls
-    * You should see the following: chaincode , invoke.js , network , package.json , query.js , startFabric.sh
+    * You should see the following: chaincode , invoke.js , network , package.json , query.js , 
+      startFabric.sh
     * Start the fabric: ./startFabric.sh
    
   <i>  Creating network "net_basic" with the default driver
