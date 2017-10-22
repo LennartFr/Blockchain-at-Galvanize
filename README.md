@@ -10,7 +10,7 @@ Your instructor: Lennart alf@us.ibm.com
 
 ## The workshop materials are all out on: ibm.biz/blockchaingalvanize
 
-# Assumption: you already know enough of Blockchain to want to start to write Blockchain apps. 
+# Assumption: you know enough of Blockchain to want to start write Blockchain apps. 
 
 # Agenda
 ~~~
