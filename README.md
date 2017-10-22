@@ -256,10 +256,18 @@ IBM has a series of Developer Journeys covering various aspects of Blockchain, w
 * https://developer.ibm.com/code/journey/create-a-to-do-list-app-using-blockchain/
 * https://developer.ibm.com/code/journey/deploy-an-asset-transfer-app-using-blockchain/
 
-* Use Issues to log suggestions
+* Blockchain on the IBM Cloud: https://console.bluemix.net/catalog/services/blockchain/ 
+** Initiate a new blockchain network including setting democratic network policies and inviting new members to join.
+** Join a network, as a new member, based on an invite from the network initiator.
+** A Certificate Authority (CA) – for issuing certificates to other network participants to enroll in the network
+** A Network Peer – enabling the invocation and validation of transactions
+** Network Dashboard – for managing and monitoring network resources
+
+* Use Issues to log suggestions to this workshop.
 https://github.com/LennartFr/Blockchain-at-Galvanize/issues/1
 
-# Notes
+
+# Appendix
 
 * curl -sSL https://hyperledger.github.io/composer/install-hlfv1.sh | bash
 * composer network deploy -a basic-sample-2.bna -p hlfv1 -i PeerAdmin -s randomString -A admin -S
