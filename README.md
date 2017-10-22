@@ -37,6 +37,7 @@ Your instructor: Lennart alf@us.ibm.com
 
 October 2008 It all started with Satoshi Nakamoto and his paper [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) which addressed a key problem in electronic commerce:
 
+---
 <i>A purely peer-to-peer version of electronic cash would allow online payments to be sent directly 
 from one party to another without going through a financial institution. 
 
@@ -44,6 +45,7 @@ Digital signatures provide part of the solution, but the main benefits are lost 
 is still required to prevent double-spending.
 
 We propose a solution to the double-spending problem using a peer-to-peer network.</i>
+---
 
 **In this workshop we will use the Hyperledger implementation of Blockchain : http://hyperledger.org/**
 
