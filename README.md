@@ -236,14 +236,14 @@ https://hyperledger.github.io/composer/reference/commands.html
 
 # Lab 3: Decentralized Energy with Hyperledger composer 
 https://developer.ibm.com/code/journey/decentralized-energy-hyperledger-composer/
+Lab Instrructions: https://github.com/IBM/Decentralized-Energy-Composer?cm_sp=IBMCode-_-decentralized-energy-hyperledger-composer-_-Get-the-Code
 
 This Developer Journey describes a complete blockchain application with a decentralized energy network with a working user interface.
 It can be completed in around half an hour.
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-
-
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 # Where do we go from here?
 
