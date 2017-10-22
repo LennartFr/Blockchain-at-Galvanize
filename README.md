@@ -42,7 +42,7 @@ is still required to prevent double-spending.
 
 We propose a solution to the double-spending problem using a peer-to-peer network.</i>
 
-**In this workshop we will use the Hyperledger implementation of Blockchain.**
+**In this workshop we will use the Hyperledger implementation of Blockchain : http://hyperledger.org/**
 
 <img src="https://farm5.staticflickr.com/4476/37516361780_bd2498768d_o.png" width="725" height="519" alt="Hyperledger">
 
