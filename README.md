@@ -257,6 +257,9 @@ IBM has a series of Developer Journeys covering various aspects of Blockchain, w
 * https://developer.ibm.com/code/journey/deploy-an-asset-transfer-app-using-blockchain/
 
 * Blockchain on the IBM Cloud: https://console.bluemix.net/catalog/services/blockchain/ 
+
+<img src="http://34b70.http.dal05.cdn.softlayer.net/broker-static/v1-ga1/img4.png">
+
 ** Initiate a new blockchain network including setting democratic network policies and inviting new members to join.
 ** Join a network, as a new member, based on an invite from the network initiator.
 ** A Certificate Authority (CA) – for issuing certificates to other network participants to enroll in the network
