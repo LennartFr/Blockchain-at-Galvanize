@@ -8,7 +8,7 @@
 ### Wifi at Galavanize SSID/pass = g|Events / machinelearning
 Your instructor: Lennart alf@us.ibm.com
 
-## The workshop materials are all out on the URL above: ibm.biz/blockchaingalvanize
+## The workshop materials are all out on this URL: ibm.biz/blockchaingalvanize
 
 # Assumption: you already know enough of Blockchain to want to start to write Blockchain apps. 
 
