@@ -87,8 +87,6 @@ expedites the creation of Hyperledger fabric blockchain applications.
 
 <img src="https://farm5.staticflickr.com/4506/37882671951_5f4f08348a_o.png" width="1142" height="635" alt="Hyper Ivan 2">
 
-<img src="https://farm5.staticflickr.com/4496/37833953496_fa03154139_o.png" width="837" height="421" alt="Ivan Blockchain">
-
 <img src="https://farm5.staticflickr.com/4511/37561438920_efe78c324b_o.png" width="1169" height="199" alt="blockchain-banner2">
 
 ## Pre-reqs: 
@@ -294,6 +292,8 @@ https://github.com/LennartFr/Blockchain-at-Galvanize/issues/1
 # Appendix
 
 <img src="https://www.ibm.com/developerworks/cloud/library/cl-top-technical-advantages-of-hyperledger-fabric-for-blockchain-networks/fig1.png">
+
+<img src="https://farm5.staticflickr.com/4496/37833953496_fa03154139_o.png" width="837" height="421" alt="Ivan Blockchain">
 
 * curl -sSL https://hyperledger.github.io/composer/install-hlfv1.sh | bash
 * composer network deploy -a basic-sample-2.bna -p hlfv1 -i PeerAdmin -s randomString -A admin -S
