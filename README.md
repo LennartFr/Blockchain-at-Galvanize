@@ -14,9 +14,8 @@ Your instructor: Lennart alf@us.ibm.com
 
 # Agenda
 ~~~
-6:00  Sign-in, mingle, food, welcome. 
-6:20: Introduction to IBM Blockchain and Hyperledger: 
-6:30: Lennart: Introduction of the labs. 
+6:00: Sign-in, mingle, food, welcome, form teams 
+6:20: Lennart: Introduction to IBM Blockchain and Hyperledger  
 6:40: Coding starts.
       Lab 1: Let's run our first application in Hyperledger Fabric
       Lab 2: Let's write an app with the Hyperledger Composer!
