@@ -44,7 +44,7 @@ from one party to another without going through a financial institution.
 Digital signatures provide part of the solution, but the main benefits are lost if a trusted third party 
 is still required to prevent double-spending.
 
-We propose a solution to the double-spending problem using a peer-to-peer network.</i>
+*We propose a solution to the double-spending problem using a peer-to-peer network.*</i>
 
 ---
 
