@@ -29,7 +29,6 @@ Your instructor: Lennart alf@us.ibm.com
 
 # Let's get started, introduction and documentation
 
-
 <img src="https://farm5.staticflickr.com/4338/36822231841_bc13a7147a_z.jpg" width="640" height="164" alt="IBMBlockchain1">
 
 [Blockchain for Dummies](https://public.dhe.ibm.com/common/ssi/ecm/xi/en/xim12354usen/XIM12354USEN.PDF)
@@ -76,18 +75,6 @@ across the economic ecosystem.
 A Business Network Archive (BNA) file is exported by the Hyperledger Composer with the extension of .bna, and contains the definitions all the definitions for a Business Network. It is deployed in a Hyper Ledger Fabric. 
  is an application development framework which simplifies and 
 expedites the creation of Hyperledger fabric blockchain applications.
-
-## The Blockchain Architecture
-
-### The flow with one SDK
-
-<img src="https://farm5.staticflickr.com/4479/37162470013_1309212044_b.jpg" width="1024" height="513" alt="Hyperledger Architecture">
-
-### The flow with two and more SDKs
-
-<img src="https://farm5.staticflickr.com/4506/37882671951_5f4f08348a_o.png" width="1142" height="635" alt="Hyper Ivan 2">
-
-<img src="https://farm5.staticflickr.com/4511/37561438920_efe78c324b_o.png" width="1169" height="199" alt="blockchain-banner2">
 
 ## Pre-reqs: 
    http://hyperledger-fabric.readthedocs.io/en/latest/prereqs.html
@@ -210,9 +197,19 @@ You should see the new car appear, stored in the blockchain.
 
 You will see that the new owner is now Syed.
 
-# The Hyperledger architecture.  
+# The Hyperledger architecture. 
 
 <img src="https://farm5.staticflickr.com/4458/37771305586_6bf75bc2af_o.png" width="853" height="482" alt="hyperledger architecture">
+
+### The flow with one SDK
+
+<img src="https://farm5.staticflickr.com/4479/37162470013_1309212044_b.jpg" width="1024" height="513" alt="Hyperledger Architecture">
+
+### The flow with two and more SDKs
+
+<img src="https://farm5.staticflickr.com/4506/37882671951_5f4f08348a_o.png" width="1142" height="635" alt="Hyper Ivan 2">
+
+<img src="https://farm5.staticflickr.com/4511/37561438920_efe78c324b_o.png" width="1169" height="199" alt="blockchain-banner2">
 
 # Hyperledger Fabric and its docker images 
 
