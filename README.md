@@ -299,7 +299,7 @@ https://github.com/LennartFr/Blockchain-at-Galvanize/issues/1
 * composer network ping -n basic-sample-2 -p hlfv1 -i admin -s adminpw
 * https://developer.ibm.com/tv/hyperledger-composer-build-execute-smart-contract/ 
 
-## Lab 1: Let's bring up the Hyperledger Fabric!
+## Bonus Lab : Let's bring up the Hyperledger Fabric!
 Instructions below from this URL: 
 * http://hyperledger-fabric.readthedocs.io/en/latest/build_network.html 
 * http://hyperledger-fabric.readthedocs.io/en/latest/samples.html
