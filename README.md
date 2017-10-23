@@ -208,33 +208,6 @@ You will see that the new owner is now Syed.
 
 ## [Instructions: Composer Playground and the Perishable Goods Network](https://github.com/LennartFr/Blockchain-at-Galvanize/blob/master/Hyperledger%20Composer%20Perishable%20Food%20Network.pdf)
 
-## Deploy bna file on hyperledger fabric
-https://hyperledger.github.io/composer/business-network/bnd-deploy.html
-``~
-Arnes-MBP:bnafile arnelennartfrantzell$ composer network deploy -p hlfv1 -a my-basic-sample.bna -i PeerAdmin -s randomString -A admin -S
-Deploying business network from archive: my-basic-sample.bna
-Business network definition:
-	Identifier: my-basic-sample@0.1.10
-	Description: The Composer basic sample network
-
-✔ Deploying business network definition. This may take a minute...
-
-Command succeeded
-~~~
-
-## ping application on hyperledger composer
-
-Arnes-MBP:bnafile arnelennartfrantzell$ composer network ping -n my-basic-sample -p hlfv1 -i admin -s adminpw
-The connection to the network was successfully tested: my-basic-sample
-	version: 0.14.1
-	participant: org.hyperledger.composer.system.NetworkAdmin#admin
-
-Command succeeded
-
-
-https://hyperledger.github.io/composer/reference/commands.html
-~~~
-
 # Lab 3: Decentralized Energy with Hyperledger composer 
 https://developer.ibm.com/code/journey/decentralized-energy-hyperledger-composer/
 Lab Instrructions: https://github.com/IBM/Decentralized-Energy-Composer?cm_sp=IBMCode-_-decentralized-energy-hyperledger-composer-_-Get-the-Code
@@ -336,4 +309,32 @@ Only if necessary, execute the following three commands to remove existing Docke
  ### Step 4 (optional) Configurate your Hyperledger Fabric instance.  
  http://hyperledger-fabric.readthedocs.io/en/latest/build_network.html
 
+
+
+## Deploy bna file on hyperledger fabric
+https://hyperledger.github.io/composer/business-network/bnd-deploy.html
+``~
+Arnes-MBP:bnafile arnelennartfrantzell$ composer network deploy -p hlfv1 -a my-basic-sample.bna -i PeerAdmin -s randomString -A admin -S
+Deploying business network from archive: my-basic-sample.bna
+Business network definition:
+	Identifier: my-basic-sample@0.1.10
+	Description: The Composer basic sample network
+
+✔ Deploying business network definition. This may take a minute...
+
+Command succeeded
+~~~
+
+## ping application on hyperledger composer
+
+Arnes-MBP:bnafile arnelennartfrantzell$ composer network ping -n my-basic-sample -p hlfv1 -i admin -s adminpw
+The connection to the network was successfully tested: my-basic-sample
+	version: 0.14.1
+	participant: org.hyperledger.composer.system.NetworkAdmin#admin
+
+Command succeeded
+
+
+https://hyperledger.github.io/composer/reference/commands.html
+~~~
 
