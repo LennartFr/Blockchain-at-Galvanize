@@ -79,10 +79,6 @@ expedites the creation of Hyperledger fabric blockchain applications.
 
 ## The Blockchain Architecture
 
-### High-level flow
-
-<img src="https://www.ibm.com/developerworks/cloud/library/cl-top-technical-advantages-of-hyperledger-fabric-for-blockchain-networks/fig1.png">
-
 ### The flow with one SDK
 
 <img src="https://farm5.staticflickr.com/4479/37162470013_1309212044_b.jpg" width="1024" height="513" alt="Hyperledger Architecture">
@@ -296,6 +292,8 @@ https://github.com/LennartFr/Blockchain-at-Galvanize/issues/1
 
 
 # Appendix
+
+<img src="https://www.ibm.com/developerworks/cloud/library/cl-top-technical-advantages-of-hyperledger-fabric-for-blockchain-networks/fig1.png">
 
 * curl -sSL https://hyperledger.github.io/composer/install-hlfv1.sh | bash
 * composer network deploy -a basic-sample-2.bna -p hlfv1 -i PeerAdmin -s randomString -A admin -S
