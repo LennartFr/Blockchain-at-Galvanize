@@ -169,7 +169,7 @@ Response is
     
 ## Step 3 Now let's add a new car and update the Blockchain.
 
-* Open the Invoke.js program, locate the request function and change the args section like this, 
+1 Open the Invoke.js program, locate the request function and change the args section like this, 
 using your own name and args:
 
 ~~~
@@ -181,12 +181,14 @@ var request = {
         chainId: options.channel_id,
         txId: tx_id
 
-Save the file and invoke it like this: node invoke.js. 
-Followed by: node query.js
+2 Save the file and invoke it like this: node invoke.js. 
+3 Followed by: node query.js
 You should see the new car appear, stored in the blockchain.
 ~~~
 
 ## Step 4 Now let's change car ownership
+
+1 Change the Invoke.js program as shown below:
 
 ~~~
 // createCar - requires 5 args, ex: args: ['CAR11', 'Honda', 'Accord', 'Black', 'Tom'],
@@ -204,7 +206,7 @@ You should see the new car appear, stored in the blockchain.
     };
 ~~~
 
-Again, enter node query.js.
+2 Again, enter node query.js.
 
 You will see that the new owner is now Syed.
 
