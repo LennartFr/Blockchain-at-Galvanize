@@ -206,7 +206,7 @@ You will see that the new owner is now Syed.
 
 ## Run Hyperledger Composer in your browser https://hyperledger.github.io/composer/
 
-## [Instructions: Composer Playground and the Perishable Goods Network](https://github.com/LennartFr/Blockchain-at-Galvanize/blob/master/Hyperledger%20Composer%20Perishable%20Food%20Network.pdf)
+## [Instructions: Composer Playground and the Perishable Goods Network](https://github.com/LennartFr/Blockchain-at-Galvanize/blob/master/Hyperledger%20Composer%20Perishable%20Food%20Network%202.pdf)
 
 # Lab 3: Decentralized Energy with Hyperledger composer 
 https://developer.ibm.com/code/journey/decentralized-energy-hyperledger-composer/
