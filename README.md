@@ -76,6 +76,8 @@ A Business Network Archive (BNA) file is exported by the Hyperledger Composer wi
  is an application development framework which simplifies and 
 expedites the creation of Hyperledger fabric blockchain applications.
 
+<img src="https://farm5.staticflickr.com/4511/37561438920_efe78c324b_o.png" width="1169" height="199" alt="blockchain-banner2">
+
 ## Pre-reqs: 
    http://hyperledger-fabric.readthedocs.io/en/latest/prereqs.html
 
@@ -217,8 +219,6 @@ You will see that the new owner is now Syed.
 ### The flow with two and more SDKs
 
 <img src="https://farm5.staticflickr.com/4506/37882671951_5f4f08348a_o.png" width="1142" height="635" alt="Hyper Ivan 2">
-
-<img src="https://farm5.staticflickr.com/4511/37561438920_efe78c324b_o.png" width="1169" height="199" alt="blockchain-banner2">
 
 # Hyperledger Fabric and its docker images 
 
