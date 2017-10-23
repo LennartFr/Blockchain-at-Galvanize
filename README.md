@@ -18,7 +18,7 @@ Your instructor: Lennart alf@us.ibm.com
 6:20: Lennart: Introduction to IBM Blockchain and Hyperledger  
 6:40: Coding starts.
       Lab 1: Let's run our first application in Hyperledger Fabric
-      Lab 2: Let's write an app with the Hyperledger Composer!
+      Lab 2: Let's write an app with the Hyperledger Composer
       Lab 3: Decentralized Energy with Hyperledger composer
 8:15: Coding ends.
       Where do we go from here? 
