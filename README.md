@@ -197,6 +197,15 @@ You should see the new car appear, stored in the blockchain.
 
 You will see that the new owner is now Syed.
 
+# Lab 2: Let's write an app with the Hyperledger Composer!
+<img src="https://farm5.staticflickr.com/4445/37751618086_06402e4b2e_b.jpg" width="766" height="532" alt="Composer Playground">
+
+[Playground Tutorial](https://hyperledger.github.io/composer/tutorials/playground-guide.html)
+
+## Run Hyperledger Composer in your browser https://hyperledger.github.io/composer/
+
+## [Instructions: Composer Playground and the Perishable Goods Network](https://github.com/LennartFr/Blockchain-at-Galvanize/blob/master/Hyperledger%20Composer%20Perishable%20Food%20Network.pdf)
+
 # The Hyperledger architecture. 
 
 <img src="https://farm5.staticflickr.com/4458/37771305586_6bf75bc2af_o.png" width="853" height="482" alt="hyperledger architecture">
@@ -214,15 +223,6 @@ You will see that the new owner is now Syed.
 # Hyperledger Fabric and its docker images 
 
 <img src="https://farm5.staticflickr.com/4506/23967210328_2ab9949bdb_o.png" width="701" height="812" alt="hyper docker">
-
-# Lab 2: Let's write an app with the Hyperledger Composer!
-<img src="https://farm5.staticflickr.com/4445/37751618086_06402e4b2e_b.jpg" width="766" height="532" alt="Composer Playground">
-
-[Playground Tutorial](https://hyperledger.github.io/composer/tutorials/playground-guide.html)
-
-## Run Hyperledger Composer in your browser https://hyperledger.github.io/composer/
-
-## [Instructions: Composer Playground and the Perishable Goods Network](https://github.com/LennartFr/Blockchain-at-Galvanize/blob/master/Hyperledger%20Composer%20Perishable%20Food%20Network.pdf)
 
 ## Deploy bna file on hyperledger fabric
 https://hyperledger.github.io/composer/business-network/bnd-deploy.html
