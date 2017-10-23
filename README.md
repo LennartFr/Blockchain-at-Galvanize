@@ -79,9 +79,15 @@ expedites the creation of Hyperledger fabric blockchain applications.
 
 ## The Blockchain Architecture
 
+### High-level flow
+
 <img src="https://www.ibm.com/developerworks/cloud/library/cl-top-technical-advantages-of-hyperledger-fabric-for-blockchain-networks/fig1.png">
 
+### The flow with one SDK
+
 <img src="https://farm5.staticflickr.com/4479/37162470013_1309212044_b.jpg" width="1024" height="513" alt="Hyperledger Architecture">
+
+### The flow with two and more SDKs
 
 <img src="https://farm5.staticflickr.com/4479/37162470013_1309212044_b.jpg" width="1024" height="513" alt="Hyperledger Architecture">
 
