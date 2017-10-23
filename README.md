@@ -19,7 +19,7 @@ Your instructor: Lennart alf@us.ibm.com
 6:40: Coding starts.
       Lab 1: Let's run our first application in Hyperledger Fabric
       Lab 2: Let's write an app with the Hyperledger Composer
-      Lab 3: A full app, Decentralized Energy with Hyperledger composer
+      Lab 3: A full app, Decentralized Energy with Hyperledger Composer
 8:15: Coding ends.
       Where do we go from here? 
 8:30: Event ends   
