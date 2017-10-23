@@ -89,7 +89,7 @@ expedites the creation of Hyperledger fabric blockchain applications.
 
 ### The flow with two and more SDKs
 
-<img src="https://farm5.staticflickr.com/4479/37162470013_1309212044_b.jpg" width="1024" height="513" alt="Hyperledger Architecture">
+
 
 <img src="https://farm5.staticflickr.com/4496/37833953496_fa03154139_o.png" width="837" height="421" alt="Ivan Blockchain">
 
