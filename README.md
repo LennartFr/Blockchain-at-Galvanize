@@ -132,10 +132,7 @@ We will be developing on our laptops. MacOS, Ubuntu or Windows.
     
     done
   </i>
-    * Install the SDK Node modules: npm install
-    
-    * cd fabcar
-    
+    * Install the SDK Node modules: npm install  
     * node query.js
        
   output;
