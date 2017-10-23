@@ -132,8 +132,9 @@ We will be developing on our laptops. MacOS, Ubuntu or Windows.
     
     done
   </i>
-    * Install the SDK Node modules: npm install  
-    * node query.js
+  
+    6 Install the SDK Node modules: npm install  
+    7 node query.js
        
   output;
    Arnes-MBP:fabcar arnelennartfrantzell
@@ -167,6 +168,7 @@ Response is
  {"Key":"CAR9", "Record":{"colour":"brown","make":"Holden","model":"Barina","owner":"Shotaro"}}]
     
 ## Step 3 Now let's add a new car and update the Blockchain.
+
 * Open the Invoke.js program, locate the request function and change the args section like this, 
 using your own name and args:
 
