@@ -208,22 +208,6 @@ You will see that the new owner is now Syed.
 
 ## [Instructions: Composer Playground and the Perishable Goods Network](https://github.com/LennartFr/Blockchain-at-Galvanize/blob/master/Hyperledger%20Composer%20Perishable%20Food%20Network.pdf)
 
-# The Hyperledger architecture. 
-
-<img src="https://farm5.staticflickr.com/4458/37771305586_6bf75bc2af_o.png" width="853" height="482" alt="hyperledger architecture">
-
-### The flow with one SDK
-
-<img src="https://farm5.staticflickr.com/4479/37162470013_1309212044_b.jpg" width="1024" height="513" alt="Hyperledger Architecture">
-
-### The flow with two and more SDKs
-
-<img src="https://farm5.staticflickr.com/4506/37882671951_5f4f08348a_o.png" width="1142" height="635" alt="Hyper Ivan 2">
-
-# Hyperledger Fabric and its docker images 
-
-<img src="https://farm5.staticflickr.com/4506/23967210328_2ab9949bdb_o.png" width="701" height="812" alt="hyper docker">
-
 ## Deploy bna file on hyperledger fabric
 https://hyperledger.github.io/composer/business-network/bnd-deploy.html
 ``~
@@ -259,6 +243,23 @@ This Developer Journey describes a complete blockchain application with a decent
 It can be completed in around half an hour.
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
+
+# The Hyperledger architecture. 
+
+<img src="https://farm5.staticflickr.com/4458/37771305586_6bf75bc2af_o.png" width="853" height="482" alt="hyperledger architecture">
+
+### The flow with one SDK
+
+<img src="https://farm5.staticflickr.com/4479/37162470013_1309212044_b.jpg" width="1024" height="513" alt="Hyperledger Architecture">
+
+### The flow with two and more SDKs
+
+<img src="https://farm5.staticflickr.com/4506/37882671951_5f4f08348a_o.png" width="1142" height="635" alt="Hyper Ivan 2">
+
+# Hyperledger Fabric and its docker images 
+
+<img src="https://farm5.staticflickr.com/4506/23967210328_2ab9949bdb_o.png" width="701" height="812" alt="hyper docker">
+
 
 # Where do we go from here?
 
