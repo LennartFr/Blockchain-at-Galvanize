@@ -24,6 +24,7 @@ Your instructor: Lennart alf@us.ibm.com
       Where do we go from here? 
 8:30: Event ends   
 ~~~ 
+Thanx to Ivan Vankov at Cognition Foundry for reviewing the materials.
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
