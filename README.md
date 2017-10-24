@@ -247,6 +247,8 @@ It can be completed in around half an hour.
 * https://developer.ibm.com/code/journey/create-a-to-do-list-app-using-blockchain/
 * https://developer.ibm.com/code/journey/deploy-an-asset-transfer-app-using-blockchain/
 
+# https://www.hyperledger.org/community
+
 ## Blockchain on the IBM Cloud: https://console.bluemix.net/catalog/services/blockchain/ 
 
 <img src="http://34b70.http.dal05.cdn.softlayer.net/broker-static/v1-ga1/img4.png">
@@ -273,7 +275,7 @@ https://github.com/LennartFr/Blockchain-at-Galvanize/issues/1
 * https://developer.ibm.com/tv/hyperledger-composer-build-execute-smart-contract/ 
 
 ## Bonus Lab : Let's bring up the Hyperledger Fabric!
-Instructions below from this URL: 
+Instructions below from thess URLs: 
 * http://hyperledger-fabric.readthedocs.io/en/latest/build_network.html 
 * http://hyperledger-fabric.readthedocs.io/en/latest/samples.html
 * http://hyperledger-fabric.readthedocs.io/en/latest/getting_started.html
