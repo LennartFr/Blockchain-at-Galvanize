@@ -89,14 +89,14 @@ Original instructions: http://hyperledger-fabric.readthedocs.io/en/latest/write_
     Creating ca.example.com ...
     
       CA: Certificate Authority https://hyperledger-fabric-ca.readthedocs.io/en/latest/ 
-      It provides features such as:
+      Comment: It provides features such as:
          1. registration of identities, or connects to LDAP as the user registry
          2. issuance of Enrollment Certificates (ECerts)
          3. certificate renewal and revocation
     
     Creating orderer.example.com ...
     
-    The Hyperledger fabric ordering service is intended to provide an atomic broadcast 
+        Comment: The Hyperledger fabric ordering service is intended to provide an atomic broadcast 
         ordering service for consumption by the peers. This means that many clients may 
 	submit messages for ordering, and all clients are delivered the same series of 
 	ordered batches in response.
@@ -106,7 +106,7 @@ Original instructions: http://hyperledger-fabric.readthedocs.io/en/latest/write_
     Creating orderer.example.com
     
     Creating couchdb ... done
-       Transactions are collected into blocks/batches on the Ordering Service.
+       Comment: Transactions are collected into blocks/batches on the Ordering Service.
        The  blocks are stored locally to disk on every Ordering Service node 
        along with a LevelDB or CouchDB index to these blocks by number. 
        The blocks are delivered via RPC to committing peers. 
@@ -114,7 +114,7 @@ Original instructions: http://hyperledger-fabric.readthedocs.io/en/latest/write_
        http://bit.ly/2zORhrC
     
     Creating peer0.org1.example.com ...
-       A Peer is a node that commits transactions and maintains the state and a copy of the ledger. 
+       Comment: A Peer is a node that commits transactions and maintains the state and a copy of the ledger. 
     
     Creating peer0.org1.example.com ... 
     
