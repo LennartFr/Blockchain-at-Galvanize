@@ -39,7 +39,7 @@ is hosted by The Linux Foundation®.
 
 Deployed in Docker images.
 
-<img src="https://farm5.staticflickr.com/4476/37516361780_bd2498768d_o.png" width="725" height="519" alt="Hyperledger">
+<img src="https://farm5.staticflickr.com/4499/26150234289_e8ea46381a_b.jpg" width="776" height="218" alt="Double Spending">
 
 ### Hyperledger Composer source code on GitHub https://github.com/hyperledger/composer
 Hyperledger Composer is an application development framework which simplifies and expedites the creation of Hyperledger fabric blockchain applications.
