@@ -208,14 +208,17 @@ This concludes Lab 1.
 ## Run Hyperledger Composer in your browser https://hyperledger.github.io/composer/
 
 ## [Instructions (open in parallel window): Composer Playground and the Perishable Goods Network]
+
+This concludes the second lab centered arund the Composer Playground. 
+
 (https://github.com/LennartFr/Blockchain-at-Galvanize/blob/master/Hyperledger%20Composer%20Perishable%20Food%20Network%203.pdf)
 
 # Lab 3: Decentralized Energy with Hyperledger composer 
+
+This third lab, a Developer Journey describes a complete blockchain application with a decentralized energy network with a working user interface.
+
 https://developer.ibm.com/code/journey/decentralized-energy-hyperledger-composer/
 Lab Instrructions: https://github.com/IBM/Decentralized-Energy-Composer?cm_sp=IBMCode-_-decentralized-energy-hyperledger-composer-_-Get-the-Code
-
-This Developer Journey describes a complete blockchain application with a decentralized energy network with a working user interface.
-It can be completed in around half an hour.
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
