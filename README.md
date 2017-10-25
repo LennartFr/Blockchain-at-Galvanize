@@ -114,16 +114,13 @@ We will be developing on our laptops. MacOS, Ubuntu or Windows.
        http://bit.ly/2zORhrC
     
     Creating peer0.org1.example.com ...
+       A Peer is a node that commits transactions and maintains the state and a copy of the ledger. 
     
     Creating peer0.org1.example.com ... 
     
     done
   </i>
-  
-       
-  
-  
-  
+    
     6 Install the SDK Node modules: npm install  
     7 node query.js
        
