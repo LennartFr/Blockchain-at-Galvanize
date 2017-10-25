@@ -218,11 +218,14 @@ This concludes the second lab centered arund the Composer Playground.
 This third lab,  a Developer Journey written by Raheel Zubairy of IBM, describes a complete blockchain application with a decentralized energy network with a working user interface.
 
 https://developer.ibm.com/code/journey/decentralized-energy-hyperledger-composer/
+
 Lab Instrructions: https://github.com/IBM/Decentralized-Energy-Composer?cm_sp=IBMCode-_-decentralized-energy-hyperledger-composer-_-Get-the-Code
+
+## This concludes the lab portion of this workshop
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-# The Hyperledger architecture. 
+# Overview of the Hyperledger architecture
 
 <img src="https://farm5.staticflickr.com/4458/37771305586_6bf75bc2af_o.png" width="853" height="482" alt="hyperledger architecture">
 
