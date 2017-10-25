@@ -34,15 +34,10 @@ October 2008 It all started with Satoshi Nakamoto and his paper [Bitcoin: A Peer
 
 **In this workshop we will use the Hyperledger implementation of Blockchain : http://hyperledger.org/**
 
-<img src="https://farm5.staticflickr.com/4466/37215863804_46a816b782_o.png" width="550" height="119" alt="Hyperledger">
-
 Hyperledger, an open source collaborative effort to advance cross-industry blockchain technologies, 
 is hosted by The Linux Foundation®. 
 
 Deployed in Docker images.
-
-IBM provides blockchain solutions and services leveraging Hyperledger technologies, 
-including Hyperledger Fabric and Hyperledger Composer.
 
 <img src="https://farm5.staticflickr.com/4476/37516361780_bd2498768d_o.png" width="725" height="519" alt="Hyperledger">
 
