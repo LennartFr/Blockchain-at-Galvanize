@@ -103,6 +103,22 @@ We will be developing on our laptops. MacOS, Ubuntu or Windows.
     done
   </i>
   
+  What are we seeing?
+  
+  
+  What are we seeing?
+
+  *** CA: Certificate Authority https://hyperledger-fabric-ca.readthedocs.io/en/latest/ ***
+      It provides features such as:
+         1. registration of identities, or connects to LDAP as the user registry
+         2. issuance of Enrollment Certificates (ECerts)
+         3. certificate renewal and revocation
+
+
+  
+  
+  
+  
     6 Install the SDK Node modules: npm install  
     7 node query.js
        
