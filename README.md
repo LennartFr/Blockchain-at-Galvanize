@@ -24,14 +24,7 @@ Your instructor: Lennart alf@us.ibm.com
       Where do we go from here? 
 8:30: Event ends   
 ~~~ 
-
-<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
-
 # Let's get started, introduction and documentation
-
-<img src="https://farm5.staticflickr.com/4338/36822231841_bc13a7147a_z.jpg" width="640" height="164" alt="IBMBlockchain1">
-
-[Blockchain for Dummies](https://public.dhe.ibm.com/common/ssi/ecm/xi/en/xim12354usen/XIM12354USEN.PDF)
 
 ## How did it all start?
 
@@ -235,8 +228,15 @@ It can be completed in around half an hour.
 
 <img src="https://farm5.staticflickr.com/4506/23967210328_2ab9949bdb_o.png" width="701" height="812" alt="hyper docker">
 
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
+
 
 # Where do we go from here?
+
+<img src="https://farm5.staticflickr.com/4338/36822231841_bc13a7147a_z.jpg" width="640" height="164" alt="IBMBlockchain1">
+
+[Blockchain for Dummies](https://public.dhe.ibm.com/common/ssi/ecm/xi/en/xim12354usen/XIM12354USEN.PDF)
+
 
 ## IBM has a series of Developer Journeys covering various aspects of Blockchain, with more being added regularly. 
 
