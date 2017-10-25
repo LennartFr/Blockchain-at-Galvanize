@@ -30,7 +30,7 @@ Your instructor: Lennart alf@us.ibm.com
 
 October 2008 It all started with Satoshi Nakamoto and his paper [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) which addressed a key problem in electronic commerce:
 
-<img src="https://farm5.staticflickr.com/4499/26150234289_e8ea46381a_b.jpg" width="776" height="218" alt="Double Spending">
+<img src="https://farm5.staticflickr.com/4505/24079519258_ab8a80f7ed_o.png" width="769" height="229" alt="Double Spending">
 
 **In this workshop we will use the Hyperledger implementation of Blockchain : http://hyperledger.org/**
 
