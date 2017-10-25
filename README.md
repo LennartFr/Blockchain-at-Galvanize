@@ -63,7 +63,7 @@ It is deployed in a Hyper Ledger Fabric.
 http://hyperledger-fabric.readthedocs.io/en/latest/prereqs.html
 
 # Lab 1: Let's run our first application in Hyperledger Fabric 
-Source: http://hyperledger-fabric.readthedocs.io/en/latest/write_first_app.html
+Original instructions: http://hyperledger-fabric.readthedocs.io/en/latest/write_first_app.html
 
 We will be developing on our laptops. MacOS, Ubuntu or Windows.
 
