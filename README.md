@@ -89,11 +89,12 @@ Original instructions: http://hyperledger-fabric.readthedocs.io/en/latest/write_
     Creating ca.example.com ...
     
       CA: Certificate Authority https://hyperledger-fabric-ca.readthedocs.io/en/latest/ 
-      Comment: It provides features such as:
-         1. registration of identities, or connects to LDAP as the user registry
+         Comment: It provides features such as:
+         1. Issues certificates to other network participants to enroll in the network,
+	       or connects to LDAP as the user registry
          2. issuance of Enrollment Certificates (ECerts)
          3. certificate renewal and revocation
-    
+	     
     Creating orderer.example.com ...
     
         Comment: The Hyperledger fabric ordering service is intended to provide an atomic broadcast 
@@ -114,11 +115,9 @@ Original instructions: http://hyperledger-fabric.readthedocs.io/en/latest/write_
        http://bit.ly/2zORhrC
     
     Creating peer0.org1.example.com ...
-       Comment: A Peer is a node that commits transactions and maintains the state and a copy of the ledger. 
-    
-    Creating peer0.org1.example.com ... 
-    
-    done
+       Comment: A Peer is a node that validates and commits transactions and maintains the state and a copy of the ledger. 
+       Creating peer0.org1.example.com ... 
+       done
   </i>
     
     6 Install the SDK Node modules: npm install  
@@ -264,15 +263,12 @@ Lab Instrructions: https://github.com/IBM/Decentralized-Energy-Composer?cm_sp=IB
 
 # https://www.hyperledger.org/community
 
-## Blockchain on the IBM Cloud: https://console.bluemix.net/catalog/services/blockchain/ 
+## Blockchain in the IBM Cloud: https://console.bluemix.net/catalog/services/blockchain/ 
 
 <img src="http://34b70.http.dal05.cdn.softlayer.net/broker-static/v1-ga1/img4.png">
 
 ** Initiate a new blockchain network including setting democratic network policies and inviting new members to join.
 ** Join a network, as a new member, based on an invite from the network initiator.
-** A Certificate Authority (CA) – for issuing certificates to other network participants to enroll in the network
-** A Network Peer – enabling the invocation and validation of transactions
-** Network Dashboard – for managing and monitoring network resources
 
 * Use Issues to log suggestions to this workshop.
 https://github.com/LennartFr/Blockchain-at-Galvanize/issues/1
@@ -284,21 +280,11 @@ https://github.com/LennartFr/Blockchain-at-Galvanize/issues/1
 
 <img src="https://farm5.staticflickr.com/4496/37833953496_fa03154139_o.png" width="837" height="421" alt="Ivan Blockchain">
 
-* curl -sSL https://hyperledger.github.io/composer/install-hlfv1.sh | bash
-* composer network deploy -a basic-sample-2.bna -p hlfv1 -i PeerAdmin -s randomString -A admin -S
-* composer network ping -n basic-sample-2 -p hlfv1 -i admin -s adminpw
-* https://developer.ibm.com/tv/hyperledger-composer-build-execute-smart-contract/ 
-
 ## Bonus Lab : Let's bring up the Hyperledger Fabric!
 Instructions below from thess URLs: 
 * http://hyperledger-fabric.readthedocs.io/en/latest/build_network.html 
 * http://hyperledger-fabric.readthedocs.io/en/latest/samples.html
 * http://hyperledger-fabric.readthedocs.io/en/latest/getting_started.html
-* http://hyperledger-fabric.readthedocs.io/en/latest/getting_started.html#install-prerequisites)
-* http://hyperledger-fabric.readthedocs.io/en/latest/getting_started.html#install-binaries-and-docker-images
-* http://hyperledger-fabric.readthedocs.io/en/latest/getting_started.html#hyperledger-fabric-samples
-* http://hyperledger-fabric.readthedocs.io/en/latest/build_network.html
-* http://hyperledger-fabric.readthedocs.io/en/latest/write_first_app.html
 
 ### Step 1
 Only if necessary, execute the following three commands to remove existing Docker instances.
@@ -351,7 +337,5 @@ The connection to the network was successfully tested: my-basic-sample
 
 Command succeeded
 
-
-https://hyperledger.github.io/composer/reference/commands.html
 ~~~
 
