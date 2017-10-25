@@ -59,8 +59,8 @@ It is deployed in a Hyper Ledger Fabric.
  
 <img src="https://farm5.staticflickr.com/4511/37561438920_efe78c324b_o.png" width="1169" height="199" alt="blockchain-banner2">
 
-## Pre-reqs: 
-   http://hyperledger-fabric.readthedocs.io/en/latest/prereqs.html
+## Prerequisites: 
+http://hyperledger-fabric.readthedocs.io/en/latest/prereqs.html
 
 # Lab 1: Let's run our first application in Hyperledger Fabric 
 Source: http://hyperledger-fabric.readthedocs.io/en/latest/write_first_app.html
