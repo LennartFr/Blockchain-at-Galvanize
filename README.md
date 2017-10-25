@@ -67,10 +67,10 @@ We will be developing on our laptops. MacOS, Ubuntu or Windows.
 # Lab 1: Let's run our first application in Hyperledger Fabric 
 Original instructions: http://hyperledger-fabric.readthedocs.io/en/latest/write_first_app.html
 
-## Step 1 Remove not needed artifacts
+## Step 1 First, remove the containers, next, delete the chaincode image:
 
-     1 docker rm -f $(docker ps -aq)
-     2 docker rmi dev-peer0.org1.example.com-fabcar-1.0  //delete chaincode image
+    1 docker rm -f $(docker ps -aq)
+    2 docker rmi dev-peer0.org1.example.com-fabcar-1.0  //delete chaincode image
     
 ## Step 2 Navigate to a directory where you want the samples downloaded to, and issue these commands:
 
