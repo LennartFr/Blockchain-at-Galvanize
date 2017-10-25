@@ -88,7 +88,7 @@ We will be developing on our laptops. MacOS, Ubuntu or Windows.
     
     Creating ca.example.com ...
     
-      CA: Certificate Authority https://hyperledger-fabric-ca.readthedocs.io/en/latest/ ***
+      CA: Certificate Authority https://hyperledger-fabric-ca.readthedocs.io/en/latest/ 
       It provides features such as:
          1. registration of identities, or connects to LDAP as the user registry
          2. issuance of Enrollment Certificates (ECerts)
@@ -96,11 +96,22 @@ We will be developing on our laptops. MacOS, Ubuntu or Windows.
     
     Creating orderer.example.com ...
     
+    The Hyperledger fabric ordering service is intended to provide an atomic broadcast 
+        ordering service for consumption by the peers. This means that many clients may 
+	submit messages for ordering, and all clients are delivered the same series of 
+	ordered batches in response.
+    
     Creating ca.example.com
     
     Creating orderer.example.com
     
     Creating couchdb ... done
+       Transactions are collected into blocks/batches on the Ordering Service.
+       The  blocks are stored locally to disk on every Ordering Service node 
+       along with a LevelDB or CouchDB index to these blocks by number. 
+       The blocks are delivered via RPC to committing peers. 
+       The peers store them locally, and maintain a LevelDB (or CouchDB)based block index. 
+       http://bit.ly/2zORhrC
     
     Creating peer0.org1.example.com ...
     
