@@ -40,6 +40,24 @@ is hosted by The Linux Foundation®.
 
 Deployed in Docker images.
 
+
+1. A blockchain emulates a “trusted” computing service through a distributed protocol, 
+   run by nodes connected over the Internet. 
+
+2. The service represents or creates an asset, in which all nodes have some stake.
+
+3. The nodes share the common goal of running the service but do not necessarily 
+   trust each other for more. 
+
+4. In a “permissionless” blockchain such as the one underlying the Bitcoin cryptocurrency, anyone
+   can operate a node and participate through spending CPU cycles and demonstrating a “proof-of-work.”
+
+5. On the other hand, blockchains in the “permissioned” model control who participates in validation and
+   in the protocol; these nodes typically have established identities and form a consortium
+
+
+
+
 <img src="https://farm5.staticflickr.com/4494/37926120211_b7dddb090d_o.png" width="682" height="423" alt="Hyperledger Services">
 
 ### Hyperledger Composer source code on GitHub https://github.com/hyperledger/composer
