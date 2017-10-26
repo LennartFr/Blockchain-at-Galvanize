@@ -271,7 +271,11 @@ Lab Instrructions: https://github.com/IBM/Decentralized-Energy-Composer?cm_sp=IB
 
 <img src="https://github.com/LennartFr/Blockchain-at-Galvanize/blob/master/Hyperledger%20LevelDB.PNG">
 
+### Ordering service
+
 <img src="https://www.ibm.com/developerworks/cloud/library/cl-top-technical-advantages-of-hyperledger-fabric-for-blockchain-networks/fig1.png">
+
+### Ivan Blockchain
 
 <img src="https://farm5.staticflickr.com/4496/37833953496_fa03154139_o.png" width="837" height="421" alt="Ivan Blockchain">
 
