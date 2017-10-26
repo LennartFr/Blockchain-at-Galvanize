@@ -213,13 +213,13 @@ This concludes Lab 1.
 
 ## [Instructions (open in parallel window): Composer Playground and the Perishable Goods Network]
 
-This concludes the second lab centered arund the Composer Playground. 
-
 (https://github.com/LennartFr/Blockchain-at-Galvanize/blob/master/Hyperledger%20Composer%20Perishable%20Food%20Network%203.pdf)
+
+This concludes the second lab centered arund the Composer Playground. 
 
 # Lab 3: Decentralized Energy with Hyperledger composer 
 
-This third lab,  a Developer Journey written by Raheel Zubairy of IBM, describes a complete blockchain application with a decentralized energy network with a working user interface.
+This third lab, a Developer Journey written by Raheel Zubairy of IBM, describes a complete blockchain application with a decentralized energy network with a working user interface.
 
 https://developer.ibm.com/code/journey/decentralized-energy-hyperledger-composer/
 
