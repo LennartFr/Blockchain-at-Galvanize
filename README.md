@@ -119,9 +119,11 @@ Original instructions: http://hyperledger-fabric.readthedocs.io/en/latest/write_
        Comment: A Peer is a node that validates and commits transactions and maintains the state and a copy of the ledger. 
        Creating peer0.org1.example.com ... 
        done
+       
+  <img src="https://farm5.staticflickr.com/4458/37771305586_6bf75bc2af_o.png" width="853" height="482" alt="hyperledger architecture">
+  
   </i>
-    
-     <img src="https://farm5.staticflickr.com/4458/37771305586_6bf75bc2af_o.png" width="853" height="482" alt="hyperledger architecture">
+   
      
     6 Install the SDK Node modules: npm install  
     7 node query.js
