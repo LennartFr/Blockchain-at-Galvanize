@@ -135,9 +135,10 @@ Original instructions: http://hyperledger-fabric.readthedocs.io/en/latest/write_
        http://bit.ly/2zORhrC
     
     Creating peer0.org1.example.com ...
-       Comment: A Peer is a node that validates and commits transactions and maintains the state and a copy of the ledger. 
+       Comment: A Peer is a node that validates and commits transactions and maintains the state and a copy 
+       of the ledger. 
 
-       Every peer stors the data of the blockchain in its container. 
+       Every peer stores the data of the blockchain in its container. 
        In a production envirement this container has a volume (mounted folder) to a real hard drive, NAS, SAN 
        or any other storage that you may use. Otherwise if the container is stopped all the data that was in the 
        container will be gone. 
