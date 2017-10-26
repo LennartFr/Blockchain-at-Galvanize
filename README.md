@@ -21,6 +21,8 @@ Your instructor: Lennart alf@us.ibm.com, Developer Advocate at IBM, focusing on 
       Lab 3: A full app, Decentralized Energy with Hyperledger Composer
 8:15: Coding ends.
       Where do we go from here? 
+      Developer Journeys for Blockchain
+      Q1 2018: Advanced Blockchain, a Hands-on Workshop.
 8:30: Event ends   
 ~~~ 
 # Let's get started, introduction and documentation
