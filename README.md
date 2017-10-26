@@ -40,7 +40,6 @@ is hosted by The Linux Foundation®.
 
 Deployed in Docker images.
 
-
 1. A blockchain emulates a “trusted” computing service through a distributed protocol, 
    run by nodes connected over the Internet. 
 
@@ -49,13 +48,15 @@ Deployed in Docker images.
 3. The nodes share the common goal of running the service but do not necessarily 
    trust each other for more. 
 
-4. In a “permissionless” blockchain such as the one underlying the Bitcoin cryptocurrency, anyone
-   can operate a node and participate through spending CPU cycles and demonstrating a “proof-of-work.”
+....
 
 5. On the other hand, blockchains in the “permissioned” model control who participates in validation and
    in the protocol; these nodes typically have established identities and form a consortium
 
+Consensus protocol is pluggable, currently an implementation of Byzantine fault-tolerant con-
+sensus using the PBFT protocol.
 
+https://www.zurich.ibm.com/dccl/papers/cachin_dccl.pdf
 
 
 <img src="https://farm5.staticflickr.com/4494/37926120211_b7dddb090d_o.png" width="682" height="423" alt="Hyperledger Services">
