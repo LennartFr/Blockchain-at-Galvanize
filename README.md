@@ -7,7 +7,7 @@
 # Housekeeping info:
 
 ### Wifi at Galavanize SSID/pass = g|Events / machinelearning
-Your instructor: Lennart alf@us.ibm.com
+Your instructor: Lennart alf@us.ibm.com, Developer Advocate at IBM, focusing on Blockchain, Fintech and Watson.
 
 ## Assumption: you know enough about Blockchain to want to write Blockchain apps. 
 
