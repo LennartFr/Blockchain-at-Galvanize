@@ -136,11 +136,19 @@ Original instructions: http://hyperledger-fabric.readthedocs.io/en/latest/write_
     
     Creating peer0.org1.example.com ...
        Comment: A Peer is a node that validates and commits transactions and maintains the state and a copy of the ledger. 
+
+       Every peer stors the data of the blockchain in its container. 
+       In a production envirement this container has a volume (mounted folder) to a real hard drive, NAS, SAN 
+       or any other storage that you may use. Otherwise if the container is stopped all data that was in the 
+       container will be gone. 
+       Every peer store exact same data. So if blockchain is 10Gb and you have 5 peers 
+       then 50Gb will be need to store 5 separate files from every peer and every file is 10Gb.
+
        Creating peer0.org1.example.com ... 
        done
        
   <img src="https://farm5.staticflickr.com/4458/37771305586_6bf75bc2af_o.png" width="853" height="482" alt="hyperledger architecture">
-  
+
   </i>
    
      
@@ -177,6 +185,10 @@ Response is
  {"Key":"CAR8", "Record":{"colour":"indigo","make":"Tata","model":"Nano","owner":"Valeria"}},
  
  {"Key":"CAR9", "Record":{"colour":"brown","make":"Holden","model":"Barina","owner":"Shotaro"}}]
+    
+    
+ <img src="https://github.com/LennartFr/Blockchain-at-Galvanize/blob/master/Hyperledger%20LevelDB.PNG">
+    
     
 ## Step 3 Now let's add a new car and update the Blockchain.
 
