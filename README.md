@@ -82,8 +82,6 @@ Original instructions: http://hyperledger-fabric.readthedocs.io/en/latest/write_
       startFabric.sh
     5 Start the fabric: ./startFabric.sh
    
-   <img src="https://farm5.staticflickr.com/4458/37771305586_6bf75bc2af_o.png" width="853" height="482" alt="hyperledger architecture">
-   
    Output:
    
   <i>  Creating network "net_basic" with the default driver
@@ -123,6 +121,8 @@ Original instructions: http://hyperledger-fabric.readthedocs.io/en/latest/write_
        done
   </i>
     
+     <img src="https://farm5.staticflickr.com/4458/37771305586_6bf75bc2af_o.png" width="853" height="482" alt="hyperledger architecture">
+     
     6 Install the SDK Node modules: npm install  
     7 node query.js
        
