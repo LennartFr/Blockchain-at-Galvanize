@@ -152,7 +152,6 @@ Original instructions: http://hyperledger-fabric.readthedocs.io/en/latest/write_
 
   </i>
    
-     
     6 Install the SDK Node modules: npm install  
     7 node query.js
        
@@ -267,6 +266,10 @@ Lab Instrructions: https://github.com/IBM/Decentralized-Energy-Composer?cm_sp=IB
 ### The flow with two and more SDKs
 
 <img src="https://farm5.staticflickr.com/4506/37882671951_5f4f08348a_o.png" width="1142" height="635" alt="Hyper Ivan 2">
+
+### The Blockchain and State database.
+
+<img src="https://github.com/LennartFr/Blockchain-at-Galvanize/blob/master/Hyperledger%20LevelDB.PNG">
 
 # Hyperledger Fabric and its docker images 
 
