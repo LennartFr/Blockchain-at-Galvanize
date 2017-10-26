@@ -2,13 +2,12 @@
 <a href="https://github.com/LennartFr/Blockchain-at-Galvanize/blob/master/README.md"><img src="https://farm5.staticflickr.com/4477/37819497381_afe8896658_o.png" width="773" height="134"></a>
 
 # Workshop: Introduction to writing Blockchain applications
+## The workshop materials are all out on: ibm.biz/blockchaingalvanize
 
 # Housekeeping info:
 
 ### Wifi at Galavanize SSID/pass = g|Events / machinelearning
 Your instructor: Lennart alf@us.ibm.com
-
-## The workshop materials are all out on: ibm.biz/blockchaingalvanize
 
 ## Assumption: you know enough about Blockchain to want to write Blockchain apps. 
 
