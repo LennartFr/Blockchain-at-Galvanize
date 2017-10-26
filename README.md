@@ -143,8 +143,8 @@ Original instructions: http://hyperledger-fabric.readthedocs.io/en/latest/write_
        or any other storage that you may use. Otherwise if the container is stopped all the data that was in the 
        container will be gone. 
        
-       Every peer stores exact same data. So if blockchain is 10Gb and you have 5 peers 
-       then 50Gb will be need to store 5 separate files from every peer and every file is 10Gb.
+       Every peer stores exactly the same data. So if a blockchain is 10Gb and you have 5 peers 
+       then 50Gb will be needed to store 5 separate files from every peer and every file is 10Gb.
 
        Creating peer0.org1.example.com ... 
        done
