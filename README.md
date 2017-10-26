@@ -82,6 +82,8 @@ Original instructions: http://hyperledger-fabric.readthedocs.io/en/latest/write_
       startFabric.sh
     5 Start the fabric: ./startFabric.sh
    
+   <img src="https://farm5.staticflickr.com/4458/37771305586_6bf75bc2af_o.png" width="853" height="482" alt="hyperledger architecture">
+   
    Output:
    
   <i>  Creating network "net_basic" with the default driver
@@ -226,8 +228,6 @@ Lab Instrructions: https://github.com/IBM/Decentralized-Energy-Composer?cm_sp=IB
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 # Overview of the Hyperledger architecture
-
-<img src="https://farm5.staticflickr.com/4458/37771305586_6bf75bc2af_o.png" width="853" height="482" alt="hyperledger architecture">
 
 ### The flow with one SDK
 
