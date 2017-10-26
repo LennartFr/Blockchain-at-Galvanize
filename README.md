@@ -56,7 +56,7 @@ Deployed in Docker images.
 Consensus protocol is pluggable, currently an implementation of Byzantine fault-tolerant con-
 sensus using the PBFT protocol.
 
-https://www.zurich.ibm.com/dccl/papers/cachin_dccl.pdf
+Source: https://www.zurich.ibm.com/dccl/papers/cachin_dccl.pdf
 
 
 <img src="https://farm5.staticflickr.com/4494/37926120211_b7dddb090d_o.png" width="682" height="423" alt="Hyperledger Services">
