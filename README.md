@@ -8,6 +8,7 @@
 
 ### Wifi at Galavanize SSID/pass = g|Events / machinelearning
 Your instructor: Lennart alf@us.ibm.com, Developer Advocate at IBM, focusing on Blockchain, Fintech and Watson.
+
 Marek Sadowski, Syed Zaidi. Maya Reyes, Juanita Dion.
 
 ## Assumption: you have brought your laptop and you know enough about Blockchain to want to write Blockchain apps. 
