@@ -79,6 +79,9 @@ A Business Network Archive (BNA) file is exported by the Hyperledger Composer wi
 the extension of .bna, and contains the definitions all the definitions for a Business Network. 
 It is deployed in a Hyper Ledger Fabric. 
  
+## General information:
+[Hyperledger Consensus](https://www.hyperledger.org/wp-content/uploads/2017/08/HyperLedger_Arch_WG_Paper_1_Consensus.pdf)
+  
 <img src="https://farm5.staticflickr.com/4511/37561438920_efe78c324b_o.png" width="1169" height="199" alt="blockchain-banner2">
 
 ## Prerequisites: 
