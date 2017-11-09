@@ -87,24 +87,33 @@ It is deployed in a Hyper Ledger Fabric.
 ## Prerequisites: 
 http://hyperledger-fabric.readthedocs.io/en/latest/prereqs.html
 
-We will be developing on our laptops. MacOS, Ubuntu or Windows.
+Please note that it is crucial that you go thru the link above to verify that you have met the requirements for running Hyperledger on your laptop. Especially if the labs do'nt work. 
+
+We will be developing on our laptops. MacOS, Ubuntu or Windows. 
 
 # Lab 1: Let's run our first application in Hyperledger Fabric 
 Original instructions: http://hyperledger-fabric.readthedocs.io/en/latest/write_first_app.html
 
-## Step 1 First, remove the containers, next, delete the chaincode image:
+## Architecture:
+<img src="https://farm5.staticflickr.com/4525/26498674439_24631680fc_c.jpg" width="800" height="299" alt="Hyperledger helloworld">
+
+## Step 1 First, remove any docker containers, next, delete the chaincode image if it exists:
 
     1 docker rm -f $(docker ps -aq)
     2 docker rmi dev-peer0.org1.example.com-fabcar-1.0  //delete chaincode image
     
 ## Step 2 Navigate to a directory where you want the samples downloaded to, and issue these commands:
 
-    1 git clone https://github.com/hyperledger/fabric-samples.git
-    2 cd fabric-samples/fabcar
-    3 See what's inside the directory: ls
-    4 You should see the following: chaincode , invoke.js , network , package.json , query.js , 
-      startFabric.sh
-    5 Start the fabric: ./startFabric.sh
+    1. Source file: http://hyperledger-fabric.readthedocs.io/en/release/write_first_app.html
+    2. Open terminal window on laptop, do: git clone https://github.com/hyperledger/fabric-samples.git
+    3. cd fabric-samples/fabcar
+    4. See what's inside the directory: enrollAdmin.js invoke.js package.json query.js registerUser.js  startFabric.sh
+    5. docker rm -f $(docker ps -aq)
+    6. Start the fabric: ./startFabric.sh
+    7. Install the SDK Node modules: npm install
+    8. node enrollAdmin.js
+    9. node registerUser.js
+   10. node query.js
    
    Output:
    
@@ -157,9 +166,8 @@ Original instructions: http://hyperledger-fabric.readthedocs.io/en/latest/write_
   <img src="https://farm5.staticflickr.com/4458/37771305586_6bf75bc2af_o.png" width="853" height="482" alt="hyperledger architecture">
 
   </i>
-   
-    6 Install the SDK Node modules: npm install  
-    7 node query.js
+     
+    11 node query.js
        
   output;
    Arnes-MBP:fabcar arnelennartfrantzell
@@ -236,7 +244,12 @@ You should see the new car appear, stored in the blockchain.
 
 You will see that the new owner is now Syed.
 
+<img src="https://farm5.staticflickr.com/4523/38243385192_3283c6031a_c.jpg" width="800" height="425" alt="Hyperledger helloworld 2">
+
+[Read more about this app:](http://hyperledger-fabric.readthedocs.io/en/release/write_first_app.html)
+
 This concludes Lab 1.
+
 
 # Lab 2: Let's write an app with the Hyperledger Composer!
 <img src="https://farm5.staticflickr.com/4445/37751618086_06402e4b2e_b.jpg" width="383" height="266" alt="Composer Playground">
